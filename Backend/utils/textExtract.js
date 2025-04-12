@@ -34,7 +34,6 @@ export const extractWithGemini = async (photoPath) => {
                 originalAddress: {
                 fullText: String, // the complete recipient address as written
                 structured: {
-                    name: String,
                     street: String,
                     city: String,
                     state: String,

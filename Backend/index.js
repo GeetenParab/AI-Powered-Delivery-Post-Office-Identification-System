@@ -1,9 +1,8 @@
 import express from "express";
 import dotenv from "dotenv";
 
-// import cookieParser from "cookie-parser";
 
-// import connectToMongoDb from "./Db/connectToDb.js";
+// import cookieParser from "cookie-parser";
 
 
 const app = express();
@@ -15,11 +14,17 @@ dotenv.config();
 app.use(express.json());
 // app.use(cookieParser());
 import  uploadRoute from "./Routes/upload.js"
-
+import  validateRoute from "./Routes/validate-pin.js"
+import connectToMongoDb from "./utils/connectToDb.js";
 
 app.use("/api/upload",uploadRoute);
+app.use("/api/validate-pin",validateRoute);
+
+
+
+
 
 app.listen(5000,()=>{
-    // connectToMongoDb();
+    connectToMongoDb();
     console.log(`server is running on port ${PORT}`)
 });

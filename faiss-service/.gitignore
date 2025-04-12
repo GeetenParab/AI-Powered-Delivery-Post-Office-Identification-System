@@ -1,0 +1,19 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore environment/config files
+.env
+
+# Ignore large data files
+# pincode.csv
+# pin_embeddings.npy
+# pin_metadata.json
+
+# Ignore model files if you download any
+*.pt
+*.safetensors
+models/
+
+# Optional: ignore temporary or cache directories
+.cache/

@@ -1,3 +1,4 @@
+import Address from "../Model/address.js";
 import { extractWithGemini } from "../utils/textExtract.js";
 
 export const extract = async (req, res) => {
@@ -9,10 +10,22 @@ export const extract = async (req, res) => {
     const photoPath = req.files.photo[0].path;
 
     const text = await extractWithGemini(photoPath);
-
+    // originalAddress: {
+    //   fullText: String, // the complete recipient address as written
+    //   structured: {
+    //       street: String,
+    //       city: String,
+    //       state: String,
+    //       pinCode: String
+    //   }
+    //   }
+    const address = new Address({
+      fullText: text.originalAddress.fullText,
+      extractedText:text.originalAddress.structured,
+    });
+    await address.save();
     res.status(201).json({
-      message: "Image uploaded successfully",
-      extractedText: text,
+      address
     });
   } catch (error) {
     console.log("Error in extract controller", error.message);
