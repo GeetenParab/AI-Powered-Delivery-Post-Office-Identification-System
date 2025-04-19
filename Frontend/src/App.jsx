@@ -2,7 +2,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar.jsx';
 import Upload from './components/Upload.jsx';
 import Rout from './components/Rout.jsx';
-import Delivery from './components/Delivery.jsx';
+
+import AddressSortingPage from './components/AddressSortingPage.jsx';
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Upload />} />
             <Route path="/route" element={<Rout />} />
-            <Route path="/delivery" element={<Delivery />} />
+            <Route path="/sort" element={<AddressSortingPage />} />
           </Routes>
         </div>
       </div>

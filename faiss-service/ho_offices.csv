@@ -1,0 +1,812 @@
+CircleName,RegionName,DivisionName,OfficeName,Pincode,OfficeType,Delivery,District,StateName,Latitude,Longitude
+Telangana Circle,Hyderabad Region,Hanamkonda Division,Jangaon H.O,506167,HO,Delivery,JANGOAN,TELANGANA,17.7244167,79.1523611
+Telangana Circle,Hyderabad Region,Hanamkonda Division,Parkal H.O,506164,HO,Delivery,WARANGAL,TELANGANA,18.1981929,79.7017406
+Telangana Circle,Hyderabad Region,Mahabubnagar Division,Mahabubnagar H.O,509001,HO,Delivery,MAHABUBNAGAR,TELANGANA,16.7490833,77.9942222
+Telangana Circle,Hyderabad Region,Nalgonda Division,Nalgonda H.O,508001,HO,Delivery,NALGONDA,TELANGANA,17.058425,79.272626
+Telangana Circle,Hyderabad Region,Warangal Division,Warangal H.O,506002,HO,Delivery,HANUMAKONDA,TELANGANA,17.975928,79.601559
+Telangana Circle,Hyderabad City Region,Secunderabad Division,Secunderabad H.O,500003,HO,Delivery,HYDERABAD,TELANGANA,17.44128087456386,78.49522379805465
+Telangana Circle,Hyderabad City Region,Secunderabad Division,Trimulgherry H.O,500015,HO,Delivery,HYDERABAD,TELANGANA,17.478398,78.514711
+Andhra Pradesh Circle,Kurnool Region,Cuddapah Division,Cuddapah H.O,516001,HO,Delivery,Y.S.R.,ANDHRA PRADESH,14.478539,78.822058
+Andhra Pradesh Circle,Kurnool Region,Cuddapah Division,Rajampet H.O,516115,HO,Delivery,Y.S.R.,ANDHRA PRADESH,14.1975750,79.1600100
+Andhra Pradesh Circle,Kurnool Region,Kurnool Division,Kurnool H.O,518001,HO,Delivery,KURNOOL,ANDHRA PRADESH,15.833006,78.047822
+Andhra Pradesh Circle,Vijayawada Region,Bhimavaram Division,Bhimavaram H.O,534201,HO,Delivery,WEST GODAVARI,ANDHRA PRADESH,16.54069444,81.52402778
+Andhra Pradesh Circle,Vijayawada Region,Gudur Division,Gudur H.O,524101,HO,Delivery,Tirupati,ANDHRA PRADESH,14.1463611,79.8469444
+Andhra Pradesh Circle,Vijayawada Region,Guntur Division,Mangalagiri H.O,522503,HO,Delivery,GUNTUR,ANDHRA PRADESH,16.43433,80.56469
+Telangana Circle,Hyderabad Region,Khammam Division,Khammam H.O,507001,HO,Delivery,KHAMMAM,TELANGANA,17.4026389,80.2353333
+Andhra Pradesh Circle,Vijayawada Region,Nellore Division,Nellore H.O,524001,HO,Delivery,SPSR NELLORE,ANDHRA PRADESH,14.451895,79.980856
+Andhra Pradesh Circle,Vijayawada Region,Prakasam Division,Kandukur H.O,523105,HO,Delivery,PRAKASAM,ANDHRA PRADESH,15.2163056,78.9040833
+Andhra Pradesh Circle,Vijayawada Region,Tadepalligudem Division,Tadepalligudem H.O,534101,HO,Delivery,WEST GODAVARI,ANDHRA PRADESH,16.8118333,81.5235000
+Andhra Pradesh Circle,Visakhapatnam Region,Anakapalle Division,Narsipatnam H.O,531116,HO,Delivery,Anakapalli,ANDHRA PRADESH,17.5731180,82.4914120
+Andhra Pradesh Circle,Visakhapatnam Region,Parvathipuram Division,Bobbili H.O,535558,HO,Delivery,VIZIANAGARAM,ANDHRA PRADESH,18.5744722,83.3570278
+Andhra Pradesh Circle,Visakhapatnam Region,Visakhapatnam Division,Visakhapatnam H.O,530001,HO,Delivery,VISAKHAPATANAM,ANDHRA PRADESH,17.70402479,83.29639357
+Assam Circle,Dibrugarh Region,Dibrugarh Division,Dibrugarh H.O,786001,HO,Delivery,DIBRUGARH,ASSAM,27.4798611,94.9055000
+Assam Circle,Dibrugarh Region,Nagaon Division,Diphu H.O,782460,HO,Delivery,KARBI ANGLONG,ASSAM,25.8394444,93.4376944
+Assam Circle,Dibrugarh Region,Sibsagar Division,Jorhat H.O,785001,HO,Delivery,JORHAT,ASSAM,26.7580278,94.2100556
+Assam Circle,Dibrugarh Region,Sibsagar Division,Sivasagar H.O,785640,HO,Delivery,SIVASAGAR,ASSAM,26.9886944,94.6318889
+Assam Circle,DivReportingCircle,Cachar Division,Karimganj H.O,788710,HO,Delivery,KARIMGANJ,ASSAM,24.8675840,92.3603820
+Assam Circle,DivReportingCircle,Cachar Division,Silchar H.O,788001,HO,Delivery,CACHAR,ASSAM,24.8236370,92.8018270
+Bihar Circle,Muzaffarpur Region,Darbhanga Division,Laheriasarai HO,846001,HO,Delivery,DARBHANGA,BIHAR,26.1192222,85.9044722
+Bihar Circle,Muzaffarpur Region,East Champaran Division,Motihari HO,845401,HO,Delivery,PURBI CHAMPARAN,BIHAR,26.6446944,84.9017222
+Bihar Circle,East Region Bhagalpur,Saharsa Division,Supaul HO,852131,HO,Delivery,SUPAUL,BIHAR,26.1100000,86.5900000
+Bihar Circle,DivReportingCircle,Bhojpur Division,Arrah HO,802301,HO,Delivery,BHOJPUR,BIHAR,25.5587222,84.6674722
+Bihar Circle,East Region Bhagalpur,Nawadha Division,Nawadha HO,805110,HO,Delivery,NAWADA,BIHAR,24.8870000,85.5350278
+Chattisgarh Circle,DivReportingCircle,Bilaspur Division,Bilaspur BilaspurCGH HO,495001,HO,Delivery,BILASPUR,CHHATTISGARH,22.086991309999998,82.1451292
+Chattisgarh Circle,DivReportingCircle,Bilaspur Division,Janjgir HO,495668,HO,Delivery,JANJGIR-CHAMPA,CHHATTISGARH,22.006907730000002,82.577767519999995
+Delhi Circle,DivReportingCircle,Delhi GPO Division,Delhi GPO,110006,HO,Delivery,NORTH,DELHI,28.662197,77.235397
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Indraprastha HO,110002,HO,Delivery,CENTRAL,DELHI,28.6317778,77.2402500
+Delhi Circle,DivReportingCircle,New Delhi West Division,Naraina Industrial Estate H.O,110028,HO,Delivery,NEW DELHI,DELHI,28.6321410,77.1388520
+Gujarat Circle,Ahmedabad HQ Region,Gandhinagar Division,Kalol HO,382721,HO,Delivery,GANDHINAGAR,GUJARAT,23.2422778,72.4990000
+Gujarat Circle,Ahmedabad HQ Region,Sabarkantha Division,Himatnagar HO,383001,HO,Delivery,SABAR KANTHA,GUJARAT,23.603626,72.963943
+Gujarat Circle,Rajkot Region,Gondal Division,Gondal HO,360311,HO,Delivery,RAJKOT,GUJARAT,21.9644444,70.7994167
+Gujarat Circle,Rajkot Region,Junagadh Division,Junagadh HO,362001,HO,Non Delivery,JUNAGADH,GUJARAT,21.5056111,70.4589167
+Gujarat Circle,Rajkot Region,Porbandar Division,Porbandar HO,360575,HO,Delivery,PORBANDAR,GUJARAT,21.6380556,69.6056944
+Haryana Circle,DivReportingCircle,Sonepat Division,Sonipat HO,131001,HO,Delivery,SONIPAT,HARYANA,28.9926944,77.0179722
+Himachal Pradesh Circle,DivReportingCircle,Chamba Division,Chamba HO,176310,HO,Delivery,CHAMBA,HIMACHAL PRADESH,32.5596830,76.1217810
+Himachal Pradesh Circle,DivReportingCircle,Dehra Gopipur Division,Kangra HO,176001,HO,Delivery,KANGRA,HIMACHAL PRADESH,32.104911,76.274157
+Himachal Pradesh Circle,DivReportingCircle,Hamirpur Division,Hamirpur HO HP Circle,177001,HO,Delivery,HAMIRPUR,HIMACHAL PRADESH,31.6861000,76.5213000
+Himachal Pradesh Circle,DivReportingCircle,Solan Division,Nahan HO,173001,HO,Delivery,SIRMAUR,HIMACHAL PRADESH,30.562229,77.29452
+Himachal Pradesh Circle,DivReportingCircle,Solan Division,Solan HO,173212,HO,Delivery,SOLAN,HIMACHAL PRADESH,30.9045000,77.0967000
+Jammu Kashmir Circle,JAMMU RN,Udhampur Division,Udhampur HO,182101,HO,Delivery,UDHAMPUR,JAMMU AND KASHMIR,32.9258889,75.1381389
+Jharkhand Circle,DivReportingCircle,Hazaribagh Division,Hazaribagh HO,825301,HO,Delivery,HAZARIBAGH,JHARKHAND,23.9926667,85.3660000
+Jharkhand Circle,DivReportingCircle,Hazaribagh Division,Ramgarh Cantt HO,829122,HO,Delivery,RAMGARH,JHARKHAND,23.6321389,85.5141944
+Jharkhand Circle,DivReportingCircle,Palamau Division,Daltonganj HO,822101,HO,Delivery,PALAMU,JHARKHAND,24.03749,84.06387
+Karnataka Circle,Bengaluru HQ Region,BANGALORE GPO DIVISION,Bengaluru G.P.O.,560001,HO,Delivery,BENGALURU URBAN,KARNATAKA,12.9715990,77.5945630
+Karnataka Circle,Bengaluru HQ Region,Bengaluru South Division,Basavanagudi H.O,560004,HO,Delivery,BENGALURU URBAN,KARNATAKA,12.9454166,77.573476200000002
+Karnataka Circle,North Karnataka Region,Ballari Division,Ballari H.O,583101,HO,Delivery,BALLARI,KARNATAKA,15.143485999999999,76.925972200000004
+Karnataka Circle,North Karnataka Region,Gokak Division,Gokak H.O,591307,HO,Delivery,BELAGAVI,KARNATAKA,16.1656944,74.8215556
+Karnataka Circle,North Karnataka Region,Kalaburagi Division,Kalaburagi H.O,585101,HO,Delivery,KALABURAGI,KARNATAKA,17.341322999999999,76.834491999999997
+Karnataka Circle,North Karnataka Region,YADGIRI DIVISION,Yadgiri H.O,585201,HO,Delivery,YADGIR,KARNATAKA,16.761555600000001,77.135305599999995
+Karnataka Circle,North Karnataka Region,Karwar Division,Karwar H.O,581301,HO,Delivery,UTTARA KANNADA,KARNATAKA,14.816357,74.134433000000001
+Karnataka Circle,South Karnataka Region,Chikkamagaluru Division,Chikkamagaluru H.O,577101,HO,Delivery,CHIKKAMAGALURU,KARNATAKA,13.3153055,75.7742222
+Karnataka Circle,South Karnataka Region,Puttur Division,Puttur(D.K.) H.O,574201,HO,Delivery,DAKSHINA KANNADA,KARNATAKA,12.762560000000001,75.20044
+Karnataka Circle,South Karnataka Region,Udupi Division,Kundapura HO,576201,HO,Delivery,UDUPI,KARNATAKA,13.6317500,74.6918333
+Karnataka Circle,South Karnataka Region,Udupi Division,Manipal HO,576104,HO,Delivery,UDUPI,KARNATAKA,13.3489167,74.786083300000001
+Kerala Circle,Kochi Region,Alleppey Division,Alappuzha HO,688001,HO,Delivery,ALAPPUZHA,KERALA,9.4995000,76.3381944
+Kerala Circle,Kochi Region,Idukki Division,Kattappana HO,685508,HO,Delivery,IDUKKI,KERALA,9.75618,77.11177
+Kerala Circle,DivReportingCircle,Pathanamthitta Division,Pathanamthitta HO,689645,HO,Delivery,PATHANAMTHITTA,KERALA,9.2642778,76.7872500
+Kerala Circle,DivReportingCircle,Quilon Division,Kottarakara HO,691506,HO,Delivery,KOLLAM,KERALA,9.0000000,76.7700000
+Kerala Circle,DivReportingCircle,Trivandrum North Division,Thiruvananthapuram GPO,695001,HO,Delivery,THIRUVANANTHAPURAM,KERALA,8.495269,76.947695
+Kerala Circle,DivReportingCircle,Trivandrum South Division,Neyyattinkara HO,695121,HO,Delivery,THIRUVANANTHAPURAM,KERALA,8.4061322,77.0847762
+Kerala Circle,DivReportingCircle,Trivandrum South Division,Poojapura HO,695012,HO,Delivery,THIRUVANANTHAPURAM,KERALA,8.4909012,76.9736510
+Kerala Circle,Calicut Region,Manjeri Division,Manjerikla HO,676121,HO,Delivery,MALAPPURAM,KERALA,11.12052330,76.11312850
+Kerala Circle,Calicut Region,Palghat Division,Alathur Mbr HO,678541,HO,Delivery,PALAKKAD,KERALA,10.6421850,76.5448260
+Madhya Pradesh Circle,Jabalpur Region,Balaghat Division,Seoni H.O,480661,HO,Delivery,SEONI,MADHYA PRADESH,22.0984167,79.5494444
+Madhya Pradesh Circle,DivReportingCircle,Bhopal Division,C.T.T.Nagar H.O,462003,HO,Delivery,BHOPAL,MADHYA PRADESH,23.2341667,77.3991667
+Madhya Pradesh Circle,Jabalpur Region,Sagar Division,Damoh H.O,470661,HO,Delivery,DAMOH,MADHYA PRADESH,23.8365702,79.4322312
+Madhya Pradesh Circle,Indore Region,Ratlam Division,Jhabua H.O,457661,HO,Delivery,JHABUA,MADHYA PRADESH,22.7720833,74.5907778
+Madhya Pradesh Circle,Indore Region,Ujjain Division,Shajapur H.O,465001,HO,Delivery,SHAJAPUR,MADHYA PRADESH,23.4204,76.27508
+Madhya Pradesh Circle,DivReportingCircle,Gwalior Division,Morar H.O,474006,HO,Delivery,GWALIOR,MADHYA PRADESH,26.2308320,78.3219360
+Maharashtra Circle,Goa-Panaji Region,Goa Division,Margao H.O,403601,HO,Delivery,SOUTH GOA,GOA,15.27470136,73.95756147
+Maharashtra Circle,Goa-Panaji Region,Kolhapur Division,Kolhapur City H.O,416012,HO,Delivery,KOLHAPUR,MAHARASHTRA,16.6914198,74.2187626
+Maharashtra Circle,Goa-Panaji Region,Kolhapur Division,Kolhapur H.O,416003,HO,Delivery,KOLHAPUR,MAHARASHTRA,16.7196943,74.23757
+Maharashtra Circle,Goa-Panaji Region,RATNAGIRI DIVISION,Chiplun H.O,415605,HO,Delivery,RATNAGIRI,MAHARASHTRA,17.5317702,73.512773
+Maharashtra Circle,Mumbai Region,Mumbai City West Division,Mumbai Central H.O,400008,HO,Delivery,MUMBAI,MAHARASHTRA,18.96856312,72.82209855
+Maharashtra Circle,Navi Mumbai Region,Thane Division,Thane H.O,400601,HO,Delivery,THANE,MAHARASHTRA,19.1993056,72.9793333
+Maharashtra Circle,Nagpur Region,Akola Division,Akola H.O,444001,HO,Delivery,AKOLA,MAHARASHTRA,20.7100000,77.0000000
+Maharashtra Circle,Nagpur Region,Amaravati Division,Amravati H.O,444601,HO,Delivery,AMRAVATI,MAHARASHTRA,20.9298611,77.7523056
+Maharashtra Circle,Nagpur Region,Amaravati Division,Paratwada H.O,444805,HO,Delivery,AMRAVATI,MAHARASHTRA,21.303488932135824,77.51486860225016
+Maharashtra Circle,Nagpur Region,Nagpur City Division,Nagpur City H.O,440002,HO,Delivery,NAGPUR,MAHARASHTRA,21.15271940,79.10926740
+Maharashtra Circle,Nagpur Region,Nagpur Moffusil Division,Bhandara H.O,441904,HO,Delivery,BHANDARA,MAHARASHTRA,21.16341,79.65594
+Maharashtra Circle,Nagpur Region,Nagpur Moffusil Division,Gondia H.O,441601,HO,Delivery,GONDIA,MAHARASHTRA,21.499805,80.254435
+Maharashtra Circle,Nagpur Region,Nagpur Moffusil Division,Kamthi H.O,441001,HO,Delivery,NAGPUR,MAHARASHTRA,21.2275310,79.1900830
+Maharashtra Circle,Regional Office Aurangabad,Bhusaval Division,Bhusawal H.O,425201,HO,Delivery,JALGAON,MAHARASHTRA,21.0450746,75.7864589
+Maharashtra Circle,Navi Mumbai Region,Malegaon Division,Malegaon H.O,423203,HO,Delivery,NASHIK,MAHARASHTRA,21.0073120,75.5625490
+North Eastern Circle,Shillong HQ Region,Meghalaya Division,Tura H.O,794001,HO,Delivery,WEST GARO HILLS,MEGHALAYA,25.51247222,90.22063889
+Odisha Circle,Bhubaneswar HQ Region,Balasore Division,Jaleswar H.O,756032,HO,Delivery,BALESHWAR,ODISHA,21.8045556,87.2261111
+Odisha Circle,Bhubaneswar HQ Region,Bhadrak Division,Bhadrak H.O,756100,HO,Delivery,BHADRAK,ODISHA,21.0629433,86.4997600
+Odisha Circle,Bhubaneswar HQ Region,Cuttack City Division,Chandinchowk H.O,753002,HO,Delivery,CUTTACK,ODISHA,20.4667917,85.8581680
+Odisha Circle,Bhubaneswar HQ Region,Bhubaneswar Division,Khurda H.O,752055,HO,Delivery,KHORDHA,ODISHA,20.1866674,85.6218522
+Odisha Circle,Sambalpur Region,Rourkela Division,Uditnagar H.O,769012,HO,Delivery,SUNDARGARH,ODISHA,22.2277033,84.8160733
+Odisha Circle,Berhampur Region,Aska Division,Aska H.O,761110,HO,Delivery,GANJAM,ODISHA,19.6196250,84.6551800
+Odisha Circle,Berhampur Region,Phulbani Division,Phulbani H.O,762001,HO,Delivery,KANDHAMAL,ODISHA,20.4758840,84.2307160
+Punjab Circle,DivReportingCircle,Chandigarh Division,Chandigarh GPO,160017,HO,Delivery,CHANDIGARH,CHANDIGARH,30.7423305,76.7833278
+Punjab Circle,Punjab West Region,Amritsar Division,Tarn Taran HO,143401,HO,Delivery,Tarn Taran,PUNJAB,31.4577580,74.9186070
+Punjab Circle,Punjab West Region,Jalandhar Division,Jalandhar Cantt HO,144005,HO,Delivery,JALANDHAR,PUNJAB,31.29153377,75.61625696
+Rajasthan Circle,Ajmer Region,Beawar Division,Nasirabad H.O,305601,HO,Delivery,AJMER,RAJASTHAN,26.3002778,74.7191667
+Rajasthan Circle,Ajmer Region,Dungarpur Division,Dungarpur H.O,314001,HO,Delivery,DUNGARPUR,RAJASTHAN,23.8507222,73.7100000
+Rajasthan Circle,Ajmer Region,Udaipur Division,Udaipur H.O,313004,HO,Delivery,UDAIPUR,RAJASTHAN,24.5915278,73.6918611
+Rajasthan Circle,DivReportingCircle,Bharatpur Division,Bharatpur H.O,321001,HO,Delivery,BHARATPUR,RAJASTHAN,27.223605,77.491637
+Rajasthan Circle,DivReportingCircle,Jaipur Moffusil Division,Dausa HO,303303,HO,Delivery,DAUSA,RAJASTHAN,26.8908889,76.3378889
+Rajasthan Circle,DivReportingCircle,Sawaimadhopur Division,Gangapur HO,322201,HO,Delivery,SAWAI MADHOPUR,RAJASTHAN,26.4846540,76.7278800
+Rajasthan Circle,DivReportingCircle,Sawaimadhopur Division,Hindaun HO,322230,HO,Delivery,KARAULI,RAJASTHAN,26.7386111,77.0330480
+Rajasthan Circle,Jodhpur Region,Churu Division,Ratangarh H.O,331022,HO,Delivery,CHURU,RAJASTHAN,28.0771450,74.6182300
+Rajasthan Circle,DivReportingCircle,Jhunjhunu Division,Jhunjhunu H.O,333001,HO,Delivery,JHUNJHUNU,RAJASTHAN,28.1194444,75.3986111
+Rajasthan Circle,Jodhpur Region,Jaisalmer Division,Jaisalmer HO,345001,HO,Delivery,JAISALMER,RAJASTHAN,26.913901,70.908032
+Rajasthan Circle,Jodhpur Region,Sirohi Division,Jalore H.O,343001,HO,Delivery,JALORE,RAJASTHAN,25.3499510,72.6280060
+Tamilnadu Circle,Chennai City Region,Chengalpattu Division,Chengalpattu HO,603001,HO,Delivery,CHENGALPATTU,TAMIL NADU,13.0084722,80.0041667
+Tamilnadu Circle,Chennai City Region,Chennai GPO Division,Chennai G.P.O.,600001,HO,Delivery,CHENNAI,TAMIL NADU,13.0929722,80.2915000
+Tamilnadu Circle,Chennai City Region,Kanchipuram Division,Kanchipuram H.O,631501,HO,Delivery,KANCHIPURAM,TAMIL NADU,12.8323611,79.7099722
+Tamilnadu Circle,Chennai City Region,Tambaram Division,Avadi Camp HO,600054,HO,Delivery,THIRUVALLUR,TAMIL NADU,13.1269444,80.1037500
+Tamilnadu Circle,Western Region Coimbatore,Erode Division,Bhavani HO,638301,HO,Delivery,ERODE,TAMIL NADU,11.4469320,77.6795780
+Tamilnadu Circle,Western Region Coimbatore,Krishnagiri Division,Krishnagiri H.O,635001,HO,Delivery,KRISHNAGIRI,TAMIL NADU,12.5296,78.2064
+Tamilnadu Circle,Western Region Coimbatore,Namakkal Division,Namakkal H.O,637001,HO,Delivery,NAMAKKAL,TAMIL NADU,11.2155833,78.1702778
+Tamilnadu Circle,Western Region Coimbatore,Pollachi Division,Pollachi H.O,642001,HO,Delivery,COIMBATORE,TAMIL NADU,10.6595,77.0079
+Tamilnadu Circle,Southern Region Madurai,Kanniyakumari Division,Thuckalay H.O,629175,HO,Delivery,KANNIYAKUMARI,TAMIL NADU,8.2415833,77.3220833
+Tamilnadu Circle,Southern Region Madurai,Kovilpatti Division,Tenkasi H.O,627811,HO,Delivery,TENKASI,TAMIL NADU,8.9425000,77.2796200
+Tamilnadu Circle,Southern Region Madurai,Theni Division,Periyakulam H.O,625601,HO,Delivery,THENI,TAMIL NADU,10.11,77.5395278
+Tamilnadu Circle,Southern Region Madurai,Tirunelveli Division,Ambasamudram HO,627401,HO,Delivery,TIRUNELVELI,TAMIL NADU,8.7040278,77.4597500
+Tamilnadu Circle,Southern Region Madurai,Tuticorin Division,Tuticorin H.O,628001,HO,Delivery,TUTICORIN,TAMIL NADU,8.792877,78.142572
+Tamilnadu Circle,Central Region Trichirapalli,Kumbakonam Division,Melakaveri H.O,612002,HO,Delivery,THANJAVUR,TAMIL NADU,10.9681667,79.3725556
+Tamilnadu Circle,Central Region Trichirapalli,Nagapattinam Division,Tiruvarur H.O,610001,HO,Delivery,THIRUVARUR,TAMIL NADU,10.7663611,79.6371389
+Tamilnadu Circle,Central Region Trichirapalli,Pudukkottai Division,Pudukkottai H.O,622001,HO,Delivery,PUDUKKOTTAI,TAMIL NADU,10.3800000,78.8200000
+Uttar Pradesh Circle,Agra Region,Mainpuri Division,Firozabad HO,283203,HO,Delivery,FIROZABAD,UTTAR PRADESH,27.1541313,78.3794857
+Uttar Pradesh Circle,Prayagraj Regional Office,Pratapgarh Division,Pratapgarh HO,230001,HO,Delivery,PRATAPGARH,UTTAR PRADESH,25.9222778,81.9896389
+Uttar Pradesh Circle,Bareilly Region,Kheri Division,Kheri HO,262701,HO,Delivery,KHERI,UTTAR PRADESH,27.9049870,80.7927750
+Uttar Pradesh Circle,Bareilly Region,Meerut Division,Meerut City HO,250002,HO,Delivery,MEERUT,UTTAR PRADESH,28.9800000,77.6993000
+Uttar Pradesh Circle,Bareilly Region,Moradabad Division,Amroha HO,244221,HO,Delivery,AMROHA,UTTAR PRADESH,28.9008333,78.4697778
+Uttar Pradesh Circle,Varanasi Region,Ballia Division,BALLIA HO,277001,HO,Delivery,BALLIA,UTTAR PRADESH,25.762999600000001,84.148572299999998
+Uttar Pradesh Circle,Gorakhpur Region,Basti Division,SIDDHARTH NAGAR H.O,272207,HO,Delivery,SIDDHARTH NAGAR,UTTAR PRADESH,27.2892,83.0831
+Uttar Pradesh Circle,Gorakhpur Region,Gonda Division,Balrampur HO,271201,HO,Delivery,BALRAMPUR,UTTAR PRADESH,27.4309167,82.1806944
+Uttar Pradesh Circle,Kanpur Region,Fatehgarh Division,Fatehgarh HO,209601,HO,Delivery,FARRUKHABAD,UTTAR PRADESH,27.3696944,79.6315278
+Uttar Pradesh Circle,Kanpur Region,Kanpur Moffusil Division,Unnao HO,209801,HO,Delivery,UNNAO,UTTAR PRADESH,26.54841667,80.48430556
+Uttar Pradesh Circle,Lucknow  HQ Region,Barabanki Division,Barabanki HO,225001,HO,Delivery,BARABANKI,UTTAR PRADESH,26.553757300000001,81.111913000000001
+Uttar Pradesh Circle,Lucknow  HQ Region,Faizabad Division,Akbarpur HO,224122,HO,Delivery,AMBEDKAR NAGAR,UTTAR PRADESH,26.4296944,82.5346667
+Uttar Pradesh Circle,Lucknow  HQ Region,Ghaziabad Division,Ghaziabad HO,201001,HO,Delivery,GHAZIABAD,UTTAR PRADESH,28.6683129546835,77.4298306830469
+Uttar Pradesh Circle,Lucknow  HQ Region,Lucknow Division,Lucknow Chowk HO,226003,HO,Delivery,LUCKNOW,UTTAR PRADESH,26.8684790,80.9079410
+Uttarakhand Circle,DivReportingCircle,Pauri Division,Lansdowne HO,246155,HO,Delivery,PAURI GARHWAL,UTTARAKHAND,29.8388333,78.6836111
+West Bengal Circle,Kolkata Region,Kolkata East Division,Beleghata HO,700010,HO,Delivery,KOLKATA,WEST BENGAL,22.563216,88.394647
+West Bengal Circle,South Bengal Region,Asansol Division,Durgapur HO,713201,HO,Delivery,PASCHIM BARDHAMAN,WEST BENGAL,23.5023310,87.3081392
+West Bengal Circle,South Bengal Region,Asansol Division,Raniganj HO,713347,HO,Delivery,PASCHIM BARDHAMAN,WEST BENGAL,23.6072500,87.1153611
+West Bengal Circle,South Bengal Region,Burdwan Division,Katwa HO,713130,HO,Delivery,PURBA BARDHAMAN,WEST BENGAL,23.6477778,88.1302778
+West Bengal Circle,South Bengal Region,Hooghly North Division,Arambagh HO,712601,HO,Delivery,HOOGHLY,WEST BENGAL,22.8748611,87.7953333
+West Bengal Circle,South Bengal Region,Midnapore Division,Midnapore HO,721101,HO,Delivery,MEDINIPUR WEST,WEST BENGAL,22.4238333,87.3266944
+West Bengal Circle,South Bengal Region,Purulia Division,Purulia HO,723101,HO,Delivery,PURULIA,WEST BENGAL,23.3319167,86.3655000
+Telangana Circle,Hyderabad Region,Adilabad Division,Mancherial H.O,504208,HO,Delivery,MANCHERIAL,TELANGANA,18.880305,79.442307
+Telangana Circle,Hyderabad Region,Karimnagar Division,Karimnagar H.O,505001,HO,Delivery,KARIMNAGAR,TELANGANA,18.43392,79.13406499999999
+Telangana Circle,Hyderabad City Region,Medak Division,Medak H.O,502110,HO,Delivery,MEDAK,TELANGANA,18.0490000,78.2673333
+Telangana Circle,Hyderabad Region,Nalgonda Division,Bhongir H.O,508116,HO,Delivery,YADADRI BHUVANAGIRI,TELANGANA,17.5215278,78.8942500
+Telangana Circle,Hyderabad City Region,Sangareddy Division,Zaheerabad H.O,502220,HO,Delivery,SANGAREDDY,TELANGANA,17.6800556,77.6105000
+Telangana Circle,Hyderabad Region,Suryapet Division,Suryapet H.O,508213,HO,Delivery,SURYAPET,TELANGANA,17.138358,79.618493
+Telangana Circle,Hyderabad City Region,Hyderabad City Division,Khairatabad H.O,500004,HO,Delivery,HYDERABAD,TELANGANA,17.407102420922904,78.46248075508107
+Telangana Circle,Hyderabad City Region,Secunderabad Division,Vikarabad H.O,501101,HO,Delivery,VIKARABAD,TELANGANA,17.337750,77.908003
+Andhra Pradesh Circle,Kurnool Region,Anantapur Division,Guntakal H.O,515801,HO,Delivery,ANANTAPUR,ANDHRA PRADESH,15.1714167,77.3721389
+Andhra Pradesh Circle,Kurnool Region,Chittoor Division,Chittoor H.O,517001,HO,Delivery,CHITTOOR,ANDHRA PRADESH,13.21555556,79.10102778
+Andhra Pradesh Circle,Kurnool Region,Hindupur Division,Hindupur H.O,515201,HO,Delivery,Sri Sathya Sai,ANDHRA PRADESH,13.826869,77.494508
+Andhra Pradesh Circle,Kurnool Region,Nandyal Division,Nandyal H.O,518501,HO,Delivery,Nandyal,ANDHRA PRADESH,15.489826,78.487541
+Andhra Pradesh Circle,Vijayawada Region,Eluru Division,Eluru H.O,534001,HO,Delivery,Eluru,ANDHRA PRADESH,16.7050833,81.1061389
+Andhra Pradesh Circle,Vijayawada Region,Tenali Division,Tenali H.O,522201,HO,Delivery,GUNTUR,ANDHRA PRADESH,16.232149,80.651942
+Andhra Pradesh Circle,Visakhapatnam Region,Kakinada Division,Kakinada H.O,533001,HO,Delivery,Kakinada,ANDHRA PRADESH,16.9550556,82.2354722
+Andhra Pradesh Circle,Visakhapatnam Region,Srikakulam Division,Amadalavalasa H.O,532185,HO,Delivery,SRIKAKULAM,ANDHRA PRADESH,18.410918,83.899143
+Assam Circle,DivReportingCircle,Goalpara Division,Dhubri H.O,783301,HO,Delivery,DHUBRI,ASSAM,26.0186944,89.9942778
+Assam Circle,DivReportingCircle,Nalbari Division,Barpeta H.O,781301,HO,Delivery,BARPETA,ASSAM,26.3291389,91.0102500
+Assam Circle,DivReportingCircle,Darrang Division,Mangaldoi H.O,784125,HO,Delivery,DARRANG,ASSAM,26.4348442,92.0296825
+Bihar Circle,DivReportingCircle,PATNA SAHIB DIVISION,LOHIA NAGAR H.O,800020,HO,Delivery,PATNA,BIHAR,25.59800940,85.15518600
+Bihar Circle,East Region Bhagalpur,Saharsa Division,Saharsa HO,852201,HO,Delivery,SAHARSA,BIHAR,25.8840833,86.5923611
+Bihar Circle,Muzaffarpur Region,Siwan Division,Siwan HO,841226,HO,Delivery,SIWAN,BIHAR,26.2269722,84.3564167
+Bihar Circle,East Region Bhagalpur,Munger Division,Munger HO,811201,HO,Delivery,MUNGER,BIHAR,25.3751389,86.4710833
+Bihar Circle,DivReportingCircle,Patna Division,Bankipore HO,800004,HO,Delivery,PATNA,BIHAR,25.6201944,85.1559722
+Bihar Circle,DivReportingCircle,Vaishali Division,Hajipur HO,844101,HO,Delivery,VAISHALI,BIHAR,25.6916388,85.2113333
+Chattisgarh Circle,DivReportingCircle,Bastar Division,Jagdalpur H.O,494001,HO,Delivery,RAIPUR,CHHATTISGARH,19.05457,82.01241
+Chattisgarh Circle,DivReportingCircle,Rajnandgaon Division,Rajnandgaon HO,491441,HO,Delivery,RAJNANDGAON,CHHATTISGARH,21.097923999999999,81.036901999999998
+Delhi Circle,DivReportingCircle,Delhi East Division,Jhilmil HO,110095,HO,Delivery,SHAHDARA,DELHI,28.6739167,77.3198333
+Delhi Circle,DivReportingCircle,Delhi North Division,Ashok Vihar HO,110052,HO,Delivery,NORTH,DELHI,28.6933611,77.1713889
+Delhi Circle,DivReportingCircle,New Delhi South Division,Kalkaji HO,110019,HO,Delivery,SOUTH,DELHI,28.5431667,77.2576667
+Delhi Circle,DivReportingCircle,New Delhi South West Division,Sarojini Nagar HO,110023,HO,Delivery,NEW DELHI,DELHI,28.575476,77.199648
+Gujarat Circle,Ahmedabad HQ Region,Gandhinagar Division,Gandhinagar Gujarat HO,382010,HO,Delivery,GANDHINAGAR,GUJARAT,23.221549,72.648661
+Gujarat Circle,Ahmedabad HQ Region,Patan Division,Patan HO,384265,HO,Delivery,PATAN,GUJARAT,23.852903,72.128809
+Gujarat Circle,Rajkot Region,Bhavnagar Division,Bhavnagar HO,364001,HO,Delivery,BHAVNAGAR,GUJARAT,21.7750,72.1479
+Gujarat Circle,Vadodara Region,Bardoli Division,Bardoli HO,394601,HO,Delivery,SURAT,GUJARAT,21.1174444,73.1138611
+Gujarat Circle,Vadodara Region,Bharuch Division,Bharuch HO,392001,HO,Delivery,BHARUCH,GUJARAT,21.6926990,72.9828640
+Gujarat Circle,Vadodara Region,Kheda Division,Kheda HO,387411,HO,Delivery,KHEDA,GUJARAT,22.7525000,72.6844722
+Gujarat Circle,Vadodara Region,Kheda Division,Nadiad HO,387001,HO,Delivery,KHEDA,GUJARAT,22.6974444,72.8641667
+Gujarat Circle,Vadodara Region,Surat Division,Nanpura HO,395001,HO,Delivery,SURAT,GUJARAT,21.1904167,72.8131389
+Gujarat Circle,Vadodara Region,Surat Division,Surat HO,395003,HO,Delivery,SURAT,GUJARAT,21.1984722,72.8342778
+Haryana Circle,DivReportingCircle,Ambala Division,Ambala G.P.O.,133001,HO,Delivery,AMBALA,HARYANA,30.4943333,76.8345000
+Haryana Circle,DivReportingCircle,Ambala Division,Yamunanagar H.O,135001,HO,Delivery,YAMUNANAGAR,HARYANA,30.136043,77.276951
+Haryana Circle,DivReportingCircle,Faridabad Division,Faridabad NIT HO,121001,HO,Delivery,FARIDABAD,HARYANA,28.3917778,77.3021389
+Haryana Circle,DivReportingCircle,Rohtak Division,Rohtak HO,124001,HO,Delivery,ROHTAK,HARYANA,28.895515,76.606613
+Himachal Pradesh Circle,DivReportingCircle,Dharamsala Division,Palampur HO,176061,HO,Delivery,KANGRA,HIMACHAL PRADESH,32.1072778,76.5320556
+Himachal Pradesh Circle,DivReportingCircle,Hamirpur Division,Bilaspur Bilaspur HP HO,174001,HO,Delivery,BILASPUR,HIMACHAL PRADESH,31.3406000,76.7864000
+Himachal Pradesh Circle,DivReportingCircle,Mandi Division,Mandi HO,175001,HO,Delivery,MANDI,HIMACHAL PRADESH,31.7088500,76.9333700
+Himachal Pradesh Circle,DivReportingCircle,Rampur Bushahr Division,Reckong Peo HO,172107,HO,Delivery,KINNAUR,HIMACHAL PRADESH,31.5392137,78.2712848
+Jammu Kashmir Circle,Srinagar HQ Region,Leh Division,Leh H.O,194101,HO,Delivery,LEH LADAKH,LADAKH,34.1528380,77.5770380
+Jammu Kashmir Circle,JAMMU RN,Rajouri Division,Rajouri HO,185131,HO,Delivery,RAJOURI,JAMMU AND KASHMIR,33.3720278,74.3091944
+Jharkhand Circle,DivReportingCircle,Dhanbad Division,Bokaro Steel City HO,827001,HO,Delivery,BOKARO,JHARKHAND,23.6575556,86.1393333
+Jharkhand Circle,DivReportingCircle,Ranchi Division,Doranda HO,834002,HO,Delivery,RANCHI,JHARKHAND,23.3422500,85.3221667
+Jharkhand Circle,DivReportingCircle,Ranchi Division,Ranchi GPO,834001,HO,Delivery,RANCHI,JHARKHAND,23.344101,85.309563
+Karnataka Circle,Bengaluru HQ Region,Bengaluru East Division,H A L II Stage H.O,560008,HO,Delivery,BENGALURU URBAN,KARNATAKA,12.968488000000001,77.642573999999996
+Karnataka Circle,Bengaluru HQ Region,Bengaluru West Division,Jalahalli H.O,560013,HO,Delivery,BENGALURU URBAN,KARNATAKA,13.051064,77.552897000000002
+Karnataka Circle,North Karnataka Region,Bagalkot Division,Jamkhandi H.O,587301,HO,Delivery,BAGALKOT,KARNATAKA,16.5071389,75.2927778
+Karnataka Circle,North Karnataka Region,Belagavi Division,Bailhongal H.O,591102,HO,Delivery,BELAGAVI,KARNATAKA,15.817416700000001,74.851583300000001
+Karnataka Circle,North Karnataka Region,Chikodi Division,Athani H.O,591304,HO,Delivery,BELAGAVI,KARNATAKA,16.728114,75.059886
+Karnataka Circle,North Karnataka Region,Gadag Division,Gadag H.O,582101,HO,Delivery,GADAG,KARNATAKA,15.4328056,75.636138900000006
+Karnataka Circle,South Karnataka Region,Kolar Division,Chickballapur H.O,562101,HO,Delivery,CHIKKABALLAPURA,KARNATAKA,13.431972200000001,77.7301389
+Karnataka Circle,South Karnataka Region,Mangaluru Division,Mangaluru H.O,575001,HO,Delivery,DAKSHINA KANNADA,KARNATAKA,12.8583611,74.837472199999993
+Karnataka Circle,South Karnataka Region,Shivamogga Division,Shivamogga H.O,577201,HO,Delivery,SHIVAMOGGA,KARNATAKA,13.9587778,75.5866667
+Kerala Circle,Kochi Region,Changanacherry Division,Changanacherry HO,686101,HO,Delivery,KOTTAYAM,KERALA,9.444124,76.542219
+Kerala Circle,Kochi Region,Ernakulam Division,Ernakulam HO,682011,HO,Delivery,ERNAKULAM,KERALA,9.971861111,76.28230556
+Kerala Circle,Kochi Region,Mavelikara Division,Mavelikara HO,690101,HO,Delivery,ALAPPUZHA,KERALA,9.245785,76.540616
+Kerala Circle,DivReportingCircle,Pathanamthitta Division,Punalur HO,691305,HO,Delivery,KOLLAM,KERALA,9.0144444,76.9284722
+Kerala Circle,DivReportingCircle,Tiruvalla Division,Chengannur HO,689121,HO,Delivery,ALAPPUZHA,KERALA,9.3208611,76.6027222
+Kerala Circle,DivReportingCircle,Trivandrum North Division,Attingal HO,695101,HO,Delivery,THIRUVANANTHAPURAM,KERALA,8.6858333,76.8023056
+Kerala Circle,Calicut Region,Kasaragod Division,Kanhangad HO,671315,HO,Delivery,KASARAGOD,KERALA,12.31737924,75.08992643
+Kerala Circle,Calicut Region,Ottapalam Division,Ottapalam HO,679101,HO,Delivery,PALAKKAD,KERALA,10.7708266,76.3793866
+Kerala Circle,Calicut Region,Palghat Division,Olavakkot HO,678002,HO,Delivery,PALAKKAD,KERALA,10.7995710,76.6423180
+Kerala Circle,Calicut Region,Thalassery Division,Thalassery HO,670101,HO,Delivery,KANNUR,KERALA,11.7533680,75.4909120
+Kerala Circle,Calicut Region,Vadakara Division,Vadakara HO,673101,HO,Delivery,KOZHIKODE,KERALA,11.594806799,75.5907543
+Madhya Pradesh Circle,DivReportingCircle,Bhopal Division,Bhel H.O,462022,HO,Delivery,BHOPAL,MADHYA PRADESH,23.2400000,77.4700000
+Madhya Pradesh Circle,Jabalpur Region,Chhatarpur Division,Tikamgarh H.O,472001,HO,Delivery,TIKAMGARH,MADHYA PRADESH,24.7513890,78.8378330
+Madhya Pradesh Circle,DivReportingCircle,Vidisha Division,Raisen H.O,464551,HO,Delivery,RAISEN,MADHYA PRADESH,23.3328530,77.7839710
+Madhya Pradesh Circle,Indore Region,Indore Moffusil Division,Dhar H.O,454001,HO,Delivery,DHAR,MADHYA PRADESH,22.6013510,75.3026550
+Madhya Pradesh Circle,Indore Region,Ujjain Division,Ujjain H.O,456001,HO,Delivery,UJJAIN,MADHYA PRADESH,23.1809167,75.7828611
+Maharashtra Circle,Goa-Panaji Region,RATNAGIRI DIVISION,Ratnagiri H.O,415612,HO,Delivery,RATNAGIRI,MAHARASHTRA,16.995752,73.293539
+Maharashtra Circle,Goa-Panaji Region,SINDHUDURG DIVISION,Sawantwadi H.O,416510,HO,Delivery,SINDHUDURG,MAHARASHTRA,15.9108056,73.8230833
+Maharashtra Circle,Mumbai Region,Mumbai City South Division,Kalbadevi H.O,400002,HO,Delivery,MUMBAI,MAHARASHTRA,18.945166,72.828526
+Maharashtra Circle,Navi Mumbai Region,Raigad Division,Alibag HO,402201,HO,Delivery,RAIGAD,MAHARASHTRA,18.6418056,72.8723611
+Maharashtra Circle,Navi Mumbai Region,Palghar Division,Palghar H.O,401404,HO,Delivery,PALGHAR,MAHARASHTRA,19.6982778,72.7689167
+Maharashtra Circle,Nagpur Region,Buldana Division,Buldana H.O,443001,HO,Delivery,BULDHANA,MAHARASHTRA,20.535899986707577,76.1844975313938
+Maharashtra Circle,Nagpur Region,Nagpur City Division,Nagpur GPO,440001,HO,Delivery,NAGPUR,MAHARASHTRA,21.1524,79.0693
+Maharashtra Circle,Pune Region,Ahmednagar Division,Ahmednagar H.O,414001,HO,Delivery,AHMEDNAGAR,MAHARASHTRA,19.0953184,74.7473232
+Maharashtra Circle,Pune Region,Pandharpur Division,Pandharpur H.O,413304,HO,Delivery,SOLAPUR,MAHARASHTRA,17.677252,75.327658
+Maharashtra Circle,Pune Region,Pune City West Division,Pune City H.O,411002,HO,Delivery,PUNE,MAHARASHTRA,18.5153889,73.8567778
+Maharashtra Circle,Navi Mumbai Region,Nasik Division,Nashik H.O,422001,HO,Delivery,NASHIK,MAHARASHTRA,20.0082,73.80645
+North Eastern Circle,North East - II Region,Manipur Division,Imphal H.O,795001,HO,Delivery,IMPHAL WEST,MANIPUR,24.80197222,93.94052778
+North Eastern Circle,Shillong HQ Region,Arunachal Pradesh Division,Itanagar H.O,791111,HO,Delivery,PAPUM PARE,ARUNACHAL PRADESH,27.09902778,93.62633333
+North Eastern Circle,North East - I Region,Dharmanagar Division,Dharmanagar H.O,799250,HO,Delivery,North Tripura,TRIPURA,24.37883333,92.15980556
+North Eastern Circle,Shillong HQ Region,Meghalaya Division,Shillong G.P.O.,793001,HO,Delivery,EAST KHASI HILLS,MEGHALAYA,25.57391667,91.88486111
+Odisha Circle,Bhubaneswar HQ Region,Cuttack City Division,Cuttack G.P.O.,753001,HO,Delivery,CUTTACK,ODISHA,20.4751582,85.8753480
+Odisha Circle,Bhubaneswar HQ Region,KENDRAPARA DIVISION,Kendrapara H.O,754211,HO,Delivery,KENDRAPARA,ODISHA,20.50437856,86.41902155
+Odisha Circle,Bhubaneswar HQ Region,Cuttack South Division,Jagatsinghpur H.O,754103,HO,Delivery,JAGATSINGHAPUR,ODISHA,20.2528611,86.1771944
+Odisha Circle,Sambalpur Region,Keonjhar Division,Keonjhargarh H.O,758001,HO,Delivery,KENDUJHAR,ODISHA,21.6346667,85.6100000
+Odisha Circle,Sambalpur Region,Sundargarh Division,Sundargarh H.O,770001,HO,Delivery,SUNDARGARH,ODISHA,22.1207333,84.0371316
+Odisha Circle,Berhampur Region,Berhampur Division,Chatrapur H.O,761020,HO,Delivery,GANJAM,ODISHA,19.3602350,84.9958220
+Odisha Circle,Berhampur Region,Rayagada Division,Parlakhemundi H.O,761200,HO,Delivery,GAJAPATI,ODISHA,18.779149,84.082815
+Odisha Circle,Berhampur Region,Rayagada Division,Rayagada(K) H.O,765001,HO,Delivery,RAYAGADA,ODISHA,19.148341,83.453261
+Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Jagraon HO,142026,HO,Delivery,LUDHIANA,PUNJAB,30.7936111,75.4743333
+Punjab Circle,Punjab West Region,Amritsar Division,Amritsar GPO,143001,HO,Delivery,AMRITSAR,PUNJAB,31.6374921,74.8660101
+Punjab Circle,Punjab West Region,Faridkot Division,Moga HO,142001,HO,Delivery,MOGA,PUNJAB,30.815947999999999,75.166847000000004
+Punjab Circle,Punjab West Region,Gurdaspur Division,Batala HO,143505,HO,Delivery,GURDASPUR,PUNJAB,31.8075000,75.1955800
+Punjab Circle,Punjab West Region,Gurdaspur Division,Gurdaspur HO,143521,HO,Delivery,GURDASPUR,PUNJAB,32.0432740,75.3988800
+Punjab Circle,Punjab West Region,Hoshiarpur Division,Dasuya HO,144205,HO,Delivery,HOSHIARPUR,PUNJAB,31.815271,75.655368
+Punjab Circle,Punjab West Region,Kapurthala Division,Phagwara HO,144401,HO,Delivery,KAPURTHALA,PUNJAB,31.2529039,75.7614479
+Rajasthan Circle,Ajmer Region,Bhilwara Division,Bhilwara H.O,311001,HO,Delivery,BHILWARA,RAJASTHAN,25.3471000,74.6408000
+Rajasthan Circle,Ajmer Region,Tonk Division,Tonk Raj H.O,304001,HO,Delivery,TONK,RAJASTHAN,26.1620400,75.7894720
+Rajasthan Circle,Ajmer Region,Udaipur Division,Kankroli H.O,313324,HO,Delivery,RAJSAMAND,RAJASTHAN,25.0533333,73.8847222
+Rajasthan Circle,DivReportingCircle,Jaipur City Division,Jaipur G.P.O.,302001,HO,Delivery,JAIPUR,RAJASTHAN,26.9175278,75.8036667
+Rajasthan Circle,DivReportingCircle,Jaipur City Division,Jawahar Nagar H.O,302004,HO,Delivery,JAIPUR,RAJASTHAN,26.8911111,75.8408333
+Rajasthan Circle,DivReportingCircle,Jaipur City Division,Shastri Nagar H.O,302016,HO,Delivery,JAIPUR,RAJASTHAN,26.9402778,75.8005556
+Rajasthan Circle,DivReportingCircle,Sawaimadhopur Division,Sawaimadhopur HO,322001,HO,Delivery,SAWAI MADHOPUR,RAJASTHAN,26.0219444,76.3547222
+Rajasthan Circle,Jodhpur Region,Nagaur Division,Nagaur H.O,341001,HO,Delivery,NAGAUR,RAJASTHAN,27.1997222,73.7297222
+Rajasthan Circle,Jodhpur Region,Sikar Division,Srimadhopur HO,332715,HO,Delivery,SIKAR,RAJASTHAN,27.4652222,75.5977222
+Rajasthan Circle,Jodhpur Region,Sirohi Division,Sirohi H.O,307001,HO,Delivery,SIROHI,RAJASTHAN,24.8852778,72.8530556
+Tamilnadu Circle,Chennai City Region,Anna Road H.O Division,Anna Road H.O,600002,HO,Delivery,CHENNAI,TAMIL NADU,13.08472222,80.27269444
+Tamilnadu Circle,Chennai City Region,Anna Road H.O Division,CPRC Chennai,600002,HO,Non Delivery,NA,NA,13.06772,80.26992
+Tamilnadu Circle,Chennai City Region,Chennai City South Division,St Thomas Mount HO,600016,HO,Delivery,CHENNAI,TAMIL NADU,13.0015278,80.1973333
+Tamilnadu Circle,Chennai City Region,Kanchipuram Division,Tiruvallur H.O,602001,HO,Delivery,THIRUVALLUR,TAMIL NADU,13.1318620,79.9095294
+Tamilnadu Circle,Chennai City Region,Pondicherry Division,VILUPPURAM HO,605602,HO,Delivery,VILLUPURAM,TAMIL NADU,11.9453889,79.4952500
+Tamilnadu Circle,Chennai City Region,Tiruvannamalai Division,Tiruvannamalai HO,606601,HO,Delivery,TIRUVANNAMALAI,TAMIL NADU,12.2351944,79.0765833
+Tamilnadu Circle,Chennai City Region,Vellore Division,Vellore H.O,632001,HO,Delivery,VELLORE,TAMIL NADU,12.9155833,79.1320278
+Tamilnadu Circle,Western Region Coimbatore,Coimbatore Division,Coimbatore HO,641001,HO,Delivery,COIMBATORE,TAMIL NADU,11.0000000,76.9632000
+Tamilnadu Circle,Western Region Coimbatore,Coimbatore Division,Rathinasabapathy Puram HO,641002,HO,Delivery,COIMBATORE,TAMIL NADU,11.0100000,76.9510000
+Tamilnadu Circle,Western Region Coimbatore,Nilgiris Division,Coonoor H.O,643101,HO,Delivery,THE NILGIRIS,TAMIL NADU,11.3494500,76.8028580
+Tamilnadu Circle,Western Region Coimbatore,Pollachi Division,Udamalpet H.O,642126,HO,Delivery,TIRUPPUR,TAMIL NADU,10.5847,77.2458
+Tamilnadu Circle,Western Region Coimbatore,Tirupattur Division,Gudiyattam H.O,632602,HO,Delivery,VELLORE,TAMIL NADU,12.9502170,78.8803950
+Tamilnadu Circle,Western Region Coimbatore,Tirupur Division,Mettupalayam HO,641301,HO,Delivery,COIMBATORE,TAMIL NADU,11.2925556,76.9401667
+Tamilnadu Circle,Southern Region Madurai,Kanniyakumari Division,Nagercoil H.O,629001,HO,Delivery,KANNIYAKUMARI,TAMIL NADU,8.1863889,77.4314444
+Tamilnadu Circle,Southern Region Madurai,Madurai Division,Tallakulam HO,625002,HO,Delivery,MADURAI,TAMIL NADU,9.931492,78.132313
+Tamilnadu Circle,Southern Region Madurai,Ramanathapuram Division,Paramakudi HO,623707,HO,Delivery,RAMANATHAPURAM,TAMIL NADU,9.548803,78.588652
+Tamilnadu Circle,Southern Region Madurai,Sivaganga Division,Sivaganga HO,630561,HO,Delivery,SIVAGANGA,TAMIL NADU,9.8555539,78.485859
+Tamilnadu Circle,Southern Region Madurai,Virudhunagar Division,Sivakasi HO,626123,HO,Delivery,VIRUDHUNAGAR,TAMIL NADU,9.4532500,77.7941389
+Tamilnadu Circle,Southern Region Madurai,Virudhunagar Division,Virudhunagar HO,626001,HO,Delivery,VIRUDHUNAGAR,TAMIL NADU,9.5917203,77.9630416
+Tamilnadu Circle,Central Region Trichirapalli,Karur Division,Karur H.O,639001,HO,Delivery,KARUR,TAMIL NADU,10.9602222,78.0827222
+Tamilnadu Circle,Central Region Trichirapalli,Nagapattinam Division,Nagapattinam H.O,611001,HO,Delivery,NAGAPATTINAM,TAMIL NADU,10.7603056,79.8465278
+Tamilnadu Circle,Central Region Trichirapalli,Pattukottai Division,Tiruturaipundi H.O,614713,HO,Delivery,THIRUVARUR,TAMIL NADU,10.5316111,79.6388333
+Tamilnadu Circle,Central Region Trichirapalli,Srirangam Division,Perambalur H.O,621212,HO,Delivery,PERAMBALUR,TAMIL NADU,11.2400000,78.8700000
+Tamilnadu Circle,Central Region Trichirapalli,Vriddhachalam Division,Kallakurichi H.O,606202,HO,Delivery,KALLAKURICHI,TAMIL NADU,11.7381667,78.9601389
+Uttar Pradesh Circle,Agra Region,Etah Division,Etah HO,207001,HO,Delivery,ETAH,UTTAR PRADESH,27.5584100,78.6562480
+Uttar Pradesh Circle,Varanasi Region,Varanasi West Division,Varanasi Cantt HO,221002,HO,Delivery,VARANASI,UTTAR PRADESH,25.3357500,82.9823333
+Uttar Pradesh Circle,Bareilly Region,Bareilly Division,Bareilly HO,243001,HO,Delivery,BAREILLY,UTTAR PRADESH,28.3387778,79.4212778
+Uttar Pradesh Circle,Bareilly Region,Budaun Division,Budaun HO,243601,HO,Delivery,BUDAUN,UTTAR PRADESH,28.0231,79.1287
+Uttar Pradesh Circle,Gorakhpur Region,Gorakhpur Division,Gorakhpur HO,273001,HO,Delivery,GORAKHPUR,UTTAR PRADESH,26.7540833,83.3724167
+Uttar Pradesh Circle,Kanpur Region,Banda Division,Banda HO,210001,HO,Delivery,BANDA,UTTAR PRADESH,25.4771667,80.3368056
+Uttar Pradesh Circle,Kanpur Region,Fatehpur Division,Fatehpur HO,212601,HO,Delivery,FATEHPUR,UTTAR PRADESH,25.9173056,80.7980833
+Uttar Pradesh Circle,Kanpur Region,Kanpur City Division,Nawabganj HO,208002,HO,Delivery,KANPUR NAGAR,UTTAR PRADESH,26.4940000,80.3275000
+Uttar Pradesh Circle,Lucknow  HQ Region,Ghaziabad Division,New Hapur HO,245101,HO,Delivery,HAPUR,UTTAR PRADESH,28.729548,77.776084
+Uttarakhand Circle,DivReportingCircle,Almora Division,Almora HO,263601,HO,Delivery,ALMORA,UTTARAKHAND,29.5969722,79.6575000
+Uttarakhand Circle,DivReportingCircle,Nainital Division,Haldwani HO,263139,HO,Delivery,NAINITAL,UTTARAKHAND,29.2163889,79.5296667
+Uttarakhand Circle,DivReportingCircle,Nainital Division,Nainital HO,263001,HO,Delivery,NAINITAL,UTTARAKHAND,29.3941389,79.4513611
+Uttarakhand Circle,DivReportingCircle,Pauri Division,Kotdwara HO,246149,HO,Delivery,PAURI GARHWAL,UTTARAKHAND,29.7496667,78.5229444
+West Bengal Circle,Kolkata Region,Kolkata North Division,Barabazar H O,700007,HO,Delivery,KOLKATA,WEST BENGAL,22.5809166,88.3601944
+West Bengal Circle,Kolkata Region,Barasat Division,Barasat HO,700124,HO,Delivery,24 PARAGANAS NORTH,WEST BENGAL,22.7148951,88.4827494
+West Bengal Circle,Kolkata Region,Barasat Division,Basirhat HO,743411,HO,Delivery,24 PARAGANAS NORTH,WEST BENGAL,22.6630168,88.8713104
+West Bengal Circle,Kolkata Region,Birbhum Division,Rampurhat HO,731224,HO,Delivery,BIRBHUM,WEST BENGAL,24.1761667,87.7843056
+West Bengal Circle,Kolkata Region,Kolkata North Division,Cossipore HO,700002,HO,Delivery,KOLKATA,WEST BENGAL,22.6186944,88.3725556
+West Bengal Circle,Kolkata Region,Murshidabad Division,Raghunathganj HO,742225,HO,Delivery,MURSHIDABAD,WEST BENGAL,24.4655833,88.0604167
+West Bengal Circle,Kolkata Region,Nadia South Division,Ranaghat HO,741201,HO,Delivery,NADIA,WEST BENGAL,23.1772500,88.5704444
+West Bengal Circle,Kolkata Region,BARRACKPORE DIVISION,Belgharia HO,700056,HO,Delivery,24 PARAGANAS NORTH,WEST BENGAL,22.6600000,88.3800000
+West Bengal Circle,Kolkata Region,Baruipur Division,Diamond Harbour HO,743331,HO,Delivery,24 PARAGANAS SOUTH,WEST BENGAL,22.1892778,88.1893333
+West Bengal Circle,North Bengal Region,Cooch Behar Division,Cooch Behar HO,736101,HO,Delivery,COOCHBEHAR,WEST BENGAL,26.3216111,89.4385556
+West Bengal Circle,North Bengal Region,Jalpaiguri Division,Jalpaiguri HO,735101,HO,Delivery,JALPAIGURI,WEST BENGAL,26.5436580,88.7188690
+West Bengal Circle,North Bengal Region,Dakshin Dinajpur Division,Balurghat HO,733101,HO,Delivery,DINAJPUR DAKSHIN,WEST BENGAL,25.2266944,88.7749722
+West Bengal Circle,North Bengal Region,Uttar Dinajpur Division,Raiganj H.O,733134,HO,Delivery,DINAJPUR UTTAR,WEST BENGAL,25.6000000,88.1200000
+West Bengal Circle,South Bengal Region,Burdwan Division,Burdwan HO,713101,HO,Delivery,PURBA BARDHAMAN,WEST BENGAL,22.2415278,87.8676944
+West Bengal Circle,South Bengal Region,Contai Division,Contai HO,721401,HO,Delivery,MEDINIPUR EAST,WEST BENGAL,22.2956667,87.9260000
+Telangana Circle,Hyderabad City Region,Hyderabad South East Division,UPPAL H.O,500039,HO,Delivery,MEDCHAL MALKAJGIRI,TELANGANA,17.4031,78.561562
+Telangana Circle,Hyderabad Region,Hanamkonda Division,Hanamkonda H.O,506001,HO,Delivery,HANUMAKONDA,TELANGANA,18.005522,79.557726
+Telangana Circle,Hyderabad Region,Nizamabad Division,Kamareddy H.O,503111,HO,Delivery,KAMAREDDY,TELANGANA,18.320084,78.336474
+Telangana Circle,Hyderabad Region,Peddapalli Division,Peddapalli H.O,505172,HO,Delivery,PEDDAPALLI,TELANGANA,18.6115954,79.3733967
+Telangana Circle,Hyderabad City Region,Sangareddy Division,Sangareddy H.O,502001,HO,Delivery,SANGAREDDY,TELANGANA,17.626514889032922,78.08678440619123
+Telangana Circle,Hyderabad Region,Warangal Division,Mahabubabad H.O,506101,HO,Delivery,MAHABUBABAD,TELANGANA,17.598128,80.001586
+Telangana Circle,Hyderabad City Region,Hyderabad GPO Division,Hyderabad G.P.O.,500001,HO,Delivery,HYDERABAD,TELANGANA,17.387993,78.47652
+Andhra Pradesh Circle,Vijayawada Region,Markapur  Division,Markapur H.O,523316,HO,Delivery,PRAKASAM,ANDHRA PRADESH,15.735919,79.26964
+Andhra Pradesh Circle,Kurnool Region,Proddatur Division,Pulivendla H.O,516390,HO,Delivery,Y.S.R.,ANDHRA PRADESH,14.4220560,78.2210534
+Andhra Pradesh Circle,Vijayawada Region,Bhimavaram Division,Palakol H.O,534260,HO,Delivery,WEST GODAVARI,ANDHRA PRADESH,16.51927778,81.72869444
+Andhra Pradesh Circle,Vijayawada Region,Bhimavaram Division,Tanuku H.O,534211,HO,Delivery,WEST GODAVARI,ANDHRA PRADESH,16.75388889,81.67472222
+Telangana Circle,Hyderabad Region,Khammam Division,Bhadrachalam H.O,507111,HO,Delivery,BHADRADRI KOTHAGUDEM,TELANGANA,17.6666389,80.8870833
+Telangana Circle,Hyderabad Region,Khammam Division,Kothagudem Colls H.O,507101,HO,Delivery,BHADRADRI KOTHAGUDEM,TELANGANA,17.5435556,80.6184444
+Andhra Pradesh Circle,Vijayawada Region,Narasaraopet Division,Narasaraopet H.O,522601,HO,Delivery,Palnadu,ANDHRA PRADESH,16.2321111,80.0430278
+Andhra Pradesh Circle,Vijayawada Region,Narasaraopet Division,Sattenapalle H.O,522403,HO,Delivery,Palnadu,ANDHRA PRADESH,16.3966944,80.1493889
+Andhra Pradesh Circle,Vijayawada Region,Nellore Division,Kavali H.O,524201,HO,Delivery,SPSR NELLORE,ANDHRA PRADESH,14.91658,79.993121
+Andhra Pradesh Circle,Vijayawada Region,Prakasam Division,Ongole H.O,523001,HO,Delivery,PRAKASAM,ANDHRA PRADESH,15.5004722,80.0486111
+Andhra Pradesh Circle,Vijayawada Region,Vijayawada Division,Buckinghampet H.O,520002,HO,Delivery,NTR,ANDHRA PRADESH,16.5095000,80.6251
+Andhra Pradesh Circle,Vijayawada Region,Vijayawada Division,Vijayawada GPO,520001,HO,Delivery,NTR,ANDHRA PRADESH,16.521078,80.610604
+Andhra Pradesh Circle,Visakhapatnam Region,Kakinada Division,Samalkot H.O,533440,HO,Delivery,Kakinada,ANDHRA PRADESH,17.0548333,82.1661111
+Andhra Pradesh Circle,Visakhapatnam Region,Rajahmundry Division,Rajahmundry H.O,533101,HO,Delivery,EAST GODAVARI,ANDHRA PRADESH,16.99203390,81.77797210
+Andhra Pradesh Circle,Visakhapatnam Region,Srikakulam Division,Srikakulam H.O,532001,HO,Delivery,SRIKAKULAM,ANDHRA PRADESH,18.296229,83.893679
+Andhra Pradesh Circle,Visakhapatnam Region,Srikakulam Division,Tekkali H.O,532201,HO,Delivery,SRIKAKULAM,ANDHRA PRADESH,18.605507,84.237265
+Andhra Pradesh Circle,Visakhapatnam Region,Visakhapatnam Division,Waltair R S H.O,530004,HO,Delivery,VISAKHAPATANAM,ANDHRA PRADESH,17.72078,83.291245
+Assam Circle,Dibrugarh Region,Sibsagar Division,Golaghat H.O,785621,HO,Delivery,GOLAGHAT,ASSAM,26.5122500,93.9716944
+Assam Circle,Dibrugarh Region,Tinsukia Division,Tinsukia H.O,786125,HO,Delivery,TINSUKIA,ASSAM,27.492191,95.346775
+Assam Circle,DivReportingCircle,Goalpara Division,Kokrajhar H.O,783370,HO,Delivery,KOKRAJHAR,ASSAM,26.4036944,90.2721944
+Assam Circle,DivReportingCircle,Guwahati Division,Guwahati G.P.O.,781001,HO,Delivery,KAMRUP METRO,ASSAM,26.1887778,91.7456389
+Bihar Circle,Muzaffarpur Region,Muzaffarpur Division,Muzaffarpur HO,842001,HO,Delivery,MUZAFFARPUR,BIHAR,26.1264167,85.3818056
+Bihar Circle,East Region Bhagalpur,Divisional Office Katihar,Katihar HO,854105,HO,Delivery,KATIHAR,BIHAR,25.5441944,87.5698333
+Bihar Circle,Muzaffarpur Region,Samastipur Division,Samastipur HO,848101,HO,Delivery,SAMASTIPUR,BIHAR,25.8605833,85.7800833
+Bihar Circle,Muzaffarpur Region,Saran Division,Marhowrah HO,841418,HO,Delivery,SARAN,BIHAR,25.9681960,84.8620050
+Bihar Circle,DivReportingCircle,Gaya Division,Gaya HO,823001,HO,Delivery,GAYA,BIHAR,24.7938333,85.0080833
+Bihar Circle,DivReportingCircle,Gaya Division,Jehanabad HO,804408,HO,Delivery,JEHANABAD,BIHAR,25.2376944,85.0010833
+Bihar Circle,East Region Bhagalpur,Munger Division,Jamui HO,811307,HO,Delivery,JAMUI,BIHAR,24.9288056,86.2261944
+Bihar Circle,DivReportingCircle,Patna GPO Division,Patna GPO,800001,HO,Delivery,PATNA,BIHAR,25.6035833,85.1325556
+Chattisgarh Circle,DivReportingCircle,Raipur Division,Raipur HO,492001,HO,Delivery,RAIPUR,CHHATTISGARH,21.2433611,81.6360556
+Delhi Circle,DivReportingCircle,Delhi East Division,Krishna Nagar HO,110051,HO,Delivery,SHAHDARA,DELHI,28.645733,77.299773700000003
+Delhi Circle,DivReportingCircle,New Delhi South Division,Lodi Road HO,110003,HO,Delivery,SOUTH,DELHI,28.5896111,77.2191944
+Gujarat Circle,Ahmedabad HQ Region,Ahmedabad GPO Division,Ahmedabad GPO,380001,HO,Delivery,AHMADABAD,GUJARAT,23.0281944,72.5833889
+Gujarat Circle,Ahmedabad HQ Region,Banaskantha Division,Palanpur HO,385001,HO,Delivery,BANAS KANTHA,GUJARAT,24.1700920,72.4247770
+Gujarat Circle,Rajkot Region,Amreli Division,Amreli HO,365601,HO,Delivery,AMRELI,GUJARAT,21.3669726,71.1258037
+Gujarat Circle,Vadodara Region,Navsari Division,Navsari HO,396445,HO,Delivery,NAVSARI,GUJARAT,20.9500000,72.9200000
+Gujarat Circle,Vadodara Region,Vadodara East Division,Dabhoi HO,391110,HO,Non Delivery,VADODARA,GUJARAT,22.1343333,73.4229444
+Gujarat Circle,Vadodara Region,Vadodara West Division,Fateganj HO,390002,HO,Delivery,VADODARA,GUJARAT,22.3035833,73.1976944
+Haryana Circle,DivReportingCircle,Hissar Division,Hisar HO,125001,HO,Delivery,HISAR,HARYANA,29.159395,75.721343
+Haryana Circle,DivReportingCircle,Karnal Division,Karnal H.O,132001,HO,Delivery,KARNAL,HARYANA,29.6874444,76.9906667
+Himachal Pradesh Circle,DivReportingCircle,Dharamsala Division,Dharamsala HO,176215,HO,Delivery,KANGRA,HIMACHAL PRADESH,32.2095278,76.3214444
+Himachal Pradesh Circle,DivReportingCircle,Hamirpur Division,Barsar HO,174305,HO,Delivery,HAMIRPUR,HIMACHAL PRADESH,31.523361,76.450071
+Himachal Pradesh Circle,DivReportingCircle,Mandi Division,Sunder Nagar Township HO,175019,HO,Delivery,MANDI,HIMACHAL PRADESH,31.5325700,76.9056700
+Himachal Pradesh Circle,DivReportingCircle,Shimla Division,Shimla GPO,171001,HO,Delivery,SHIMLA,HIMACHAL PRADESH,31.105490,77.170373
+Jammu Kashmir Circle,JAMMU RN,Jammu Division,Jammu HO,180001,HO,Delivery,JAMMU,JAMMU AND KASHMIR,32.6984722,74.8575833
+Jharkhand Circle,DivReportingCircle,B.Deoghar Division,BDeoghar HO,814112,HO,Delivery,DEOGHAR,JHARKHAND,24.4904170,86.6906010
+Jharkhand Circle,DivReportingCircle,Singhbhum Division,Jamshedpur HO,831001,HO,Delivery,EAST SINGHBUM,JHARKHAND,22.7993,86.18486
+Karnataka Circle,Bengaluru HQ Region,Bengaluru South Division,Jayanagar H.O,560041,HO,Delivery,BENGALURU URBAN,KARNATAKA,12.9235083,77.585900199999998
+Karnataka Circle,North Karnataka Region,Belagavi Division,Ramdurg H.O,591123,HO,Delivery,BELAGAVI,KARNATAKA,15.9495556,75.2921111
+Karnataka Circle,North Karnataka Region,Dharwad Division,Hubballi H.O,580020,HO,Delivery,DHARWAD,KARNATAKA,15.352302999999999,75.144945000000007
+Karnataka Circle,North Karnataka Region,Karwar Division,Kumta H.O,581343,HO,Delivery,UTTARA KANNADA,KARNATAKA,14.428964000000001,74.415543999999997
+Karnataka Circle,North Karnataka Region,Sirsi Division,Sirsi H.O,581401,HO,Delivery,UTTARA KANNADA,KARNATAKA,14.618606,74.829808999999997
+Karnataka Circle,South Karnataka Region,Mangaluru Division,Kulshekar H.O,575005,HO,Delivery,DAKSHINA KANNADA,KARNATAKA,12.8834722,74.875722199999998
+Karnataka Circle,South Karnataka Region,Mysuru Division,Mysuru H.O,570001,HO,Delivery,MYSURU,KARNATAKA,12.314166670000001,76.656555560000001
+Karnataka Circle,South Karnataka Region,Mysuru Division,Saraswathipuram H.O,570009,HO,Delivery,MYSURU,KARNATAKA,12.30272222,76.631138890000003
+Karnataka Circle,South Karnataka Region,Udupi Division,Udupi HO,576101,HO,Delivery,UDUPI,KARNATAKA,13.3405,74.748833300000001
+Kerala Circle,Kochi Region,Alwaye Division,Perumbavoor HO,683542,HO,Delivery,ERNAKULAM,KERALA,10.115367,76.47652
+Kerala Circle,Kochi Region,Changanacherry Division,Kanjirapally HO,686507,HO,Delivery,KOTTAYAM,KERALA,9.554465,76.795469
+Kerala Circle,Kochi Region,Irinjalakuda Division,Irinjalakuda HO,680121,HO,Delivery,THRISSUR,KERALA,10.3469722,76.2076111
+Kerala Circle,Kochi Region,Kottayam Division,Pala HO,686575,HO,Delivery,KOTTAYAM,KERALA,9.709608,76.678226
+Kerala Circle,Kochi Region,Mavelikara Division,Kayangulam HO,690502,HO,Delivery,ALAPPUZHA,KERALA,9.175452,76.504582
+Kerala Circle,Kochi Region,Trichur Division,Kunnamkulam HO,680503,HO,Delivery,THRISSUR,KERALA,10.644706,76.065914
+Kerala Circle,Kochi Region,Trichur Division,Thrissur HO,680001,HO,Delivery,THRISSUR,KERALA,10.512442,76.2163
+Kerala Circle,Kochi Region,Trichur Division,WadakancheryTC HO,680582,HO,Delivery,THRISSUR,KERALA,10.657944,76.246456
+Kerala Circle,DivReportingCircle,Pathanamthitta Division,Adur Kla HO,691523,HO,Delivery,PATHANAMTHITTA,KERALA,9.1568056,76.7304167
+Kerala Circle,DivReportingCircle,Quilon Division,Kollam HO,691001,HO,Delivery,KOLLAM,KERALA,8.8900000,76.5900000
+Kerala Circle,DivReportingCircle,Tiruvalla Division,Tiruvalla HO,689101,HO,Delivery,PATHANAMTHITTA,KERALA,9.3689444,76.5789722
+Kerala Circle,Calicut Region,Calicut Division,Kalpetta HO,673121,HO,Delivery,WAYANAD,KERALA,11.607338,76.0831018
+Kerala Circle,Calicut Region,Palghat Division,Palakkad HO,678001,HO,Delivery,PALAKKAD,KERALA,10.7995710,76.6423180
+Kerala Circle,Calicut Region,Tirur Division,TirurKerala HO,676101,HO,Delivery,MALAPPURAM,KERALA,10.9136761,75.9214282
+Madhya Pradesh Circle,Jabalpur Region,Mandla Division,Mandla H.O,481661,HO,Delivery,MANDLA,MADHYA PRADESH,22.6019444,80.3683889
+Madhya Pradesh Circle,DivReportingCircle,Bhopal Division,Bhopal G.P.O.,462001,HO,Delivery,BHOPAL,MADHYA PRADESH,23.2604722,77.3940556
+Madhya Pradesh Circle,DivReportingCircle,Hoshangabad Division,Hoshangabad H.O,461001,HO,Delivery,HOSHANGABAD,MADHYA PRADESH,22.7539722,77.7356389
+Madhya Pradesh Circle,DivReportingCircle,Hoshangabad Division,Narsinghpur H.O,487001,HO,Delivery,NARSINGHPUR,MADHYA PRADESH,22.9462778,79.1881944
+Madhya Pradesh Circle,Jabalpur Region,Shahdol Division,Shahdol H.O,484001,HO,Delivery,SHAHDOL,MADHYA PRADESH,23.2988611,81.3574167
+Madhya Pradesh Circle,Jabalpur Region,Rewa Division,Sidhi H.O,486661,HO,Delivery,SIDHI,MADHYA PRADESH,24.4090833,81.8827778
+Madhya Pradesh Circle,Indore Region,Khandwa Division,Khargone H.O,451001,HO,Delivery,KHARGONE,MADHYA PRADESH,21.8260556,75.6136667
+Madhya Pradesh Circle,Indore Region,Mandsaur Division,Mandsaur H.O,458001,HO,Delivery,MANDSAUR,MADHYA PRADESH,24.0740000,75.0703889
+Madhya Pradesh Circle,DivReportingCircle,Gwalior Division,Lashkar H.O,474001,HO,Delivery,GWALIOR,MADHYA PRADESH,26.19934,78.14818
+Maharashtra Circle,Goa-Panaji Region,SANGLI DIVISION,Miraj H.O,416410,HO,Delivery,SANGLI,MAHARASHTRA,16.8193884,74.6411806
+Maharashtra Circle,Goa-Panaji Region,SANGLI DIVISION,Sangli H.O,416416,HO,Delivery,SANGLI,MAHARASHTRA,16.860161,74.5681141
+Maharashtra Circle,Goa-Panaji Region,SINDHUDURG DIVISION,Malvan H.O,416606,HO,Delivery,SINDHUDURG,MAHARASHTRA,16.0578056,73.4672500
+Maharashtra Circle,Mumbai Region,Mumbai City East Division,Dadar H.O,400014,HO,Delivery,MUMBAI,MAHARASHTRA,19.0160278,72.8458611
+Maharashtra Circle,Mumbai Region,Mumbai City North Division,Andheri H.O,400053,HO,Non Delivery,MUMBAI SUBURBAN,MAHARASHTRA,19.1238889,72.8307778
+Maharashtra Circle,Mumbai Region,Mumbai City West Division,Mahim H.O,400016,HO,Delivery,MUMBAI,MAHARASHTRA,19.0320833,72.8407222
+Maharashtra Circle,Navi Mumbai Region,Navi Mumbai Division,Panvel H.O,410206,HO,Delivery,RAIGAD,MAHARASHTRA,18.9963333,73.1231389
+Maharashtra Circle,Navi Mumbai Region,Thane Division,Kalyan City H.O,421301,HO,Non Delivery,THANE,MAHARASHTRA,19.2448056,73.1255556
+Maharashtra Circle,Pune Region,Pune City East Division,Pune H.O,411001,HO,Delivery,PUNE,MAHARASHTRA,18.52322222,73.87586111
+Maharashtra Circle,Pune Region,Pune Moffusil Division,Shivajinagar H.O,411005,HO,Non Delivery,PUNE,MAHARASHTRA,18.5275278,73.8505000
+Maharashtra Circle,Pune Region,Baramati Division,Baramati H.O,413102,HO,Delivery,PUNE,MAHARASHTRA,18.147522,74.578278
+Maharashtra Circle,Pune Region,Satara Division,Satara H.O,415001,HO,Delivery,SATARA,MAHARASHTRA,17.6881944,74.007132
+Maharashtra Circle,Regional Office Aurangabad,Dhule Division,Dhule H.O,424001,HO,Delivery,DHULE,MAHARASHTRA,20.902028,74.774982
+Maharashtra Circle,Regional Office Aurangabad,Jalgaon Division,Jalgaon H.O,425001,HO,Delivery,JALGAON,MAHARASHTRA,21.0041453,75.5688059
+Maharashtra Circle,Regional Office Aurangabad,Nanded Division,Nanded H.O,431601,HO,Delivery,NANDED,MAHARASHTRA,19.156194,77.310966
+Maharashtra Circle,Navi Mumbai Region,Nasik Division,Nashik Road H.O,422101,HO,Delivery,NASHIK,MAHARASHTRA,19.9686640,73.8316080
+North Eastern Circle,North East - I Region,Agartala Division,Agartala H.O,799001,HO,Delivery,Nirmal,TELANGANA,23.82975,91.27883333
+Odisha Circle,Bhubaneswar HQ Region,Cuttack South Division,Athagarh H.O,754029,HO,Delivery,CUTTACK,ODISHA,20.5171111,85.6257500
+Odisha Circle,Bhubaneswar HQ Region,Rairangpur Division,Rairangpur H.O,757043,HO,Delivery,MAYURBHANJ,ODISHA,22.2664167,86.1735833
+Odisha Circle,Bhubaneswar HQ Region,Nayagarh Division,Nayagarh H.O,752069,HO,Delivery,NAYAGARH,ODISHA,20.1271944,85.1091111
+Odisha Circle,Sambalpur Region,Dhenkanal Division,Angul H.O,759122,HO,Delivery,DHENKANAL,ODISHA,20.840951,85.096636000000004
+Odisha Circle,Sambalpur Region,Sambalpur Division,Sambalpur H.O,768001,HO,Delivery,SAMBALPUR,ODISHA,21.4593611,83.9746667
+Odisha Circle,Berhampur Region,Aska Division,Bhanjanagar H.O,761126,HO,Delivery,GANJAM,ODISHA,19.9471720,84.5835450
+Odisha Circle,Berhampur Region,Berhampur Division,Berhampur(GM) H.O,760001,HO,Delivery,GANJAM,ODISHA,19.3169450,84.7941450
+Punjab Circle,Punjab West Region,Ferozpur Division,Ferozepur HO,152001,HO,Delivery,FIROZEPUR,PUNJAB,30.9275460,74.6104970
+Punjab Circle,Punjab West Region,Jalandhar Division,Jalandhar City HO,144001,HO,Delivery,JALANDHAR,PUNJAB,31.32416393,75.58098624
+Rajasthan Circle,Ajmer Region,Chittorgarh Division,Chittorgarh H.O,312001,HO,Delivery,CHITTORGARH,RAJASTHAN,24.8827778,74.6225000
+Rajasthan Circle,Ajmer Region,Dungarpur Division,Banswara H.O,327001,HO,Delivery,BANSWARA,RAJASTHAN,23.5528611,74.4492500
+Rajasthan Circle,Ajmer Region,Kota Division,Kota H.O,324001,HO,Delivery,KOTA,RAJASTHAN,25.2100000,75.8600000
+Rajasthan Circle,DivReportingCircle,Alwar Division,Bahror H.O,301701,HO,Delivery,ALWAR,RAJASTHAN,27.8838889,76.2852778
+Rajasthan Circle,DivReportingCircle,Dholpur Division,Dholpur HO,328001,HO,Delivery,DHOLPUR,RAJASTHAN,26.6926111,77.8993611
+Rajasthan Circle,DivReportingCircle,Jaipur Moffusil Division,Sambhar Lake HO,303604,HO,Delivery,JAIPUR,RAJASTHAN,26.9100833,75.1814722
+Rajasthan Circle,Jodhpur Region,Barmer Division,Barmer H.O,344001,HO,Delivery,BARMER,RAJASTHAN,25.7521625,71.4126406
+Rajasthan Circle,DivReportingCircle,Jhunjhunu Division,Chirawa H.O,333026,HO,Delivery,JHUNJHUNU,RAJASTHAN,28.2318056,75.6478889
+Rajasthan Circle,Jodhpur Region,Nagaur Division,Didwana H.O,341303,HO,Delivery,NAGAUR,RAJASTHAN,27.3980556,74.5700000
+Rajasthan Circle,Jodhpur Region,Sikar Division,Sikar HO,332001,HO,Delivery,SIKAR,RAJASTHAN,27.616270,75.152440
+Rajasthan Circle,Jodhpur Region,Sriganganagar Division,Sriganganagar H.O,335001,HO,Delivery,GANGANAGAR,RAJASTHAN,29.268915,74.407657
+Tamilnadu Circle,Chennai City Region,Chennai City Central Division,Mylapore H.O,600004,HO,Delivery,CHENNAI,TAMIL NADU,13.0356389,80.2720278
+Tamilnadu Circle,Chennai City Region,Chennai City Central Division,Thygarayanagar H.O,600017,HO,Delivery,CHENNAI,TAMIL NADU,13.0453611,80.2376111
+Tamilnadu Circle,Chennai City Region,Chennai City North Division,Park Town H.O,600003,HO,Delivery,CHENNAI,TAMIL NADU,13.082984,80.278813
+Tamilnadu Circle,Chennai City Region,Pondicherry Division,Pondicherry HO,605001,HO,Delivery,PONDICHERRY,PUDUCHERRY,11.9344722,79.8350556
+Tamilnadu Circle,Chennai City Region,Tambaram Division,Tambaram HO,600045,HO,Delivery,CHENGALPATTU,TAMIL NADU,12.9333611,80.1183056
+Tamilnadu Circle,Chennai City Region,Tiruvannamalai Division,Arni HO,632301,HO,Delivery,TIRUVANNAMALAI,TAMIL NADU,12.6696944,79.2854167
+Tamilnadu Circle,Western Region Coimbatore,Dharmapuri Division,Dharmapuri H.O,636701,HO,Delivery,DHARMAPURI,TAMIL NADU,12.1462091,78.1578583
+Tamilnadu Circle,Western Region Coimbatore,Erode Division,Gobichettipalayam HO,638452,HO,Delivery,ERODE,TAMIL NADU,11.4557200,77.4208580
+Tamilnadu Circle,Western Region Coimbatore,Namakkal Division,Tiruchengodu H.O,637211,HO,Delivery,NAMAKKAL,TAMIL NADU,11.3797500,77.8855278
+Tamilnadu Circle,Western Region Coimbatore,Nilgiris Division,Udagamandalam H.O,643001,HO,Delivery,THE NILGIRIS,TAMIL NADU,11.4126450,76.7031890
+Tamilnadu Circle,Western Region Coimbatore,Salem East Division,Salem H.O,636001,HO,Delivery,SALEM,TAMIL NADU,11.6542404,78.1596270
+Tamilnadu Circle,Western Region Coimbatore,Tirupattur Division,Tirupattur H.O,635601,HO,Delivery,Tirupathur,TAMIL NADU,12.4921170,78.5624250
+Tamilnadu Circle,Western Region Coimbatore,Tirupur Division,Dharapuram HO,638656,HO,Delivery,TIRUPPUR,TAMIL NADU,10.7328056,77.5261944
+Tamilnadu Circle,Southern Region Madurai,Dindigul Division,Nilakottai HO,624208,HO,Delivery,DINDIGUL,TAMIL NADU,10.164852,77.853401
+Tamilnadu Circle,Southern Region Madurai,Dindigul Division,Palani HO,624601,HO,Delivery,DINDIGUL,TAMIL NADU,10.4528056,77.5150000
+Tamilnadu Circle,Southern Region Madurai,Karaikudi Division,Devakottai H.O,630302,HO,Delivery,SIVAGANGA,TAMIL NADU,9.9464,78.8229167
+Tamilnadu Circle,Southern Region Madurai,Madurai Division,Arasaradi HO,625016,HO,Delivery,MADURAI,TAMIL NADU,9.929554,78.098879
+Tamilnadu Circle,Southern Region Madurai,Madurai Division,Madurai HO,625001,HO,Delivery,MADURAI,TAMIL NADU,9.924447,78.113207
+Tamilnadu Circle,Southern Region Madurai,Theni Division,Bodinayakanur H.O,625513,HO,Delivery,THENI,TAMIL NADU,10.006887001,77.352281902
+Tamilnadu Circle,Southern Region Madurai,Tuticorin Division,Tiruchendur H.O,628215,HO,Delivery,TUTICORIN,TAMIL NADU,8.5001667,78.1251389
+Tamilnadu Circle,Central Region Trichirapalli,Cuddalore Division,Cuddalore H.O,607001,HO,Delivery,CUDDALORE,TAMIL NADU,11.7600000,79.7600000
+Tamilnadu Circle,Central Region Trichirapalli,Mayiladuthurai Division,Mayiladuthurai H.O,609001,HO,Delivery,MAYILADUTHURAI,TAMIL NADU,11.1009444,79.6499722
+Tamilnadu Circle,Central Region Trichirapalli,Vriddhachalam Division,Tirukkoyilur H.O,605757,HO,Delivery,KALLAKURICHI,TAMIL NADU,11.9660556,79.2046667
+Tamilnadu Circle,Central Region Trichirapalli,Vriddhachalam Division,Vriddhachalam H.O,606001,HO,Delivery,CUDDALORE,TAMIL NADU,11.5251111,79.3225833
+Uttar Pradesh Circle,Agra Region,Aligarh Division,Aligarh HO,202001,HO,Delivery,ALIGARH,UTTAR PRADESH,27.9001111,78.0728333
+Uttar Pradesh Circle,Agra Region,Jhansi Division,LALITPUR HO,284403,HO,Delivery,LALITPUR,UTTAR PRADESH,24.6879000,78.4120000
+Uttar Pradesh Circle,Agra Region,Mathura Division,Mathura HO,281001,HO,Delivery,MATHURA,UTTAR PRADESH,27.4761411,77.6970720
+Uttar Pradesh Circle,Prayagraj Regional Office,Mirzapur Division,Robertsganj HO,231216,HO,Delivery,SONBHADRA,UTTAR PRADESH,24.687759700000001,83.065575800000005
+Uttar Pradesh Circle,Varanasi Region,Varanasi East Division,Varanasi HO,221001,HO,Delivery,VARANASI,UTTAR PRADESH,25.319486999999999,83.015339999999995
+Uttar Pradesh Circle,Bareilly Region,Bijnor Division,Bijnor HO,246701,HO,Delivery,BIJNOR,UTTAR PRADESH,29.3732773,78.1355358
+Uttar Pradesh Circle,Bareilly Region,Baghpat Division,Baraut HO,250611,HO,Delivery,BAGHPAT,UTTAR PRADESH,29.101900000000001,77.263499999999993
+Uttar Pradesh Circle,Bareilly Region,Meerut Division,Meerut Cantt HO,250001,HO,Delivery,MEERUT,UTTAR PRADESH,29.0088889,77.6985278
+Uttar Pradesh Circle,Bareilly Region,Moradabad Division,Moradabad HO,244001,HO,Delivery,MORADABAD,UTTAR PRADESH,28.8419722,78.7706667
+Uttar Pradesh Circle,Bareilly Region,Muzaffarnagar Division,Muzaffarnagar HO,251001,HO,Delivery,MUZAFFARNAGAR,UTTAR PRADESH,29.4661667,77.7130833
+Uttar Pradesh Circle,Gorakhpur Region,Azamgarh Division,Azamgarh HO,276001,HO,Delivery,AZAMGARH,UTTAR PRADESH,26.052616,83.1828748
+Uttar Pradesh Circle,Gorakhpur Region,Azamgarh Division,Mau HO,275101,HO,Delivery,MAU,UTTAR PRADESH,25.9454152,83.5669856
+Uttar Pradesh Circle,Gorakhpur Region,Bahraich Division,Bahraich HO,271801,HO,Delivery,BAHRAICH,UTTAR PRADESH,27.5683570,81.5928840
+Uttar Pradesh Circle,Gorakhpur Region,Basti Division,Basti HO,272001,HO,Delivery,BASTI,UTTAR PRADESH,26.7925000,82.7297778
+Uttar Pradesh Circle,Gorakhpur Region,Gorakhpur Division,Maharajganj H.O,273303,HO,Delivery,MAHARAJGANJ,UTTAR PRADESH,26.383681,81.274319
+Uttar Pradesh Circle,Kanpur Region,Banda Division,Hamirpur HO,210301,HO,Delivery,HAMIRPUR,UTTAR PRADESH,25.9569310,80.1509830
+Uttar Pradesh Circle,Lucknow  HQ Region,Faizabad Division,Faizabad HO,224001,HO,Delivery,AYODHYA,UTTAR PRADESH,26.7786111,82.1345556
+Uttar Pradesh Circle,Lucknow  HQ Region,Gautam Buddha Nagar Division office,Noida HO,201301,HO,Delivery,GAUTAM BUDDHA NAGAR,UTTAR PRADESH,28.579201,77.324242
+Uttar Pradesh Circle,Lucknow  HQ Region,Rae Bareilly Division,Lalganj Raebareli HO,229206,HO,Delivery,RAE BARELI,UTTAR PRADESH,26.2349460,81.2410080
+Uttarakhand Circle,DivReportingCircle,Chamoli Division,Gopeshwar HO,246401,HO,Delivery,CHAMOLI,UTTARAKHAND,30.4078333,79.3177500
+Uttarakhand Circle,DivReportingCircle,Pauri Division,Pauri HO,246001,HO,Delivery,PAURI GARHWAL,UTTARAKHAND,30.1493611,78.7771944
+West Bengal Circle,Kolkata Region,South Kolkata Division,Tollygunge HO,700033,HO,Delivery,KOLKATA,WEST BENGAL,22.5067222,88.3452222
+West Bengal Circle,Kolkata Region,Kolkata GPO Division,KOLKATA GPO,700001,HO,Delivery,KOLKATA,WEST BENGAL,22.5736,88.3483
+West Bengal Circle,Kolkata Region,Murshidabad Division,Berhampore WB HO,742101,HO,Delivery,MURSHIDABAD,WEST BENGAL,24.0971389,88.2515556
+West Bengal Circle,Kolkata Region,BARRACKPORE DIVISION,Barrackpore HO,700120,HO,Delivery,24 PARAGANAS NORTH,WEST BENGAL,22.7700000,88.3400000
+West Bengal Circle,South Bengal Region,Bankura Division,Bankura HO,722101,HO,Delivery,BANKURA,WEST BENGAL,22.2346111,87.0650833
+West Bengal Circle,South Bengal Region,Hooghly South Division,Serampore HO,712201,HO,Delivery,HOOGHLY,WEST BENGAL,22.7573056,88.3423611
+West Bengal Circle,South Bengal Region,Howrah Division,Howrah HO,711101,HO,Delivery,HOWRAH,WEST BENGAL,22.5816944,88.3371944
+West Bengal Circle,South Bengal Region,Tamluk Division,Tamluk HO,721636,HO,Delivery,MEDINIPUR EAST,WEST BENGAL,22.2955,87.9260
+Telangana Circle,Hyderabad Region,Karimnagar Division,Jagtial H.O,505327,HO,Delivery,Jagitial,TELANGANA,18.7936944,78.9152778
+Telangana Circle,Hyderabad Region,Mahabubnagar Division,Gadwal H.O,509125,HO,Delivery,JOGULAMBA GADWAL,TELANGANA,16.237774,77.804226
+Telangana Circle,Hyderabad Region,Nizamabad Division,Armoor H.O,503224,HO,Delivery,NIZAMABAD,TELANGANA,18.792356,78.280035
+Telangana Circle,Hyderabad Region,Nizamabad Division,Nizamabad H.O,503001,HO,Delivery,NIZAMABAD,TELANGANA,18.6715,78.0937
+Telangana Circle,Hyderabad Region,Peddapalli Division,Huzurabad H.O,505468,HO,Delivery,KARIMNAGAR,TELANGANA,18.2028505,79.3985947
+Telangana Circle,Hyderabad Region,Suryapet Division,Miryalguda H.O,508207,HO,Delivery,NALGONDA,TELANGANA,16.8704167,79.5683889
+Telangana Circle,Hyderabad Region,Wanaparthy Division,Stn. Jadcherla H.O,509301,HO,Delivery,MAHABUBNAGAR,TELANGANA,16.7552222,78.1437778
+Andhra Pradesh Circle,Kurnool Region,Anantapur Division,Anantapur H.O,515001,HO,Delivery,ANANTAPUR,ANDHRA PRADESH,14.680822,77.594785
+Andhra Pradesh Circle,Kurnool Region,Chittoor Division,Madanapalle H.O,517325,HO,Delivery,Annamayya,ANDHRA PRADESH,13.55605556,78.50127778
+Andhra Pradesh Circle,Kurnool Region,Kurnool Division,Adoni H.O,518301,HO,Delivery,KURNOOL,ANDHRA PRADESH,15.65838889,77.2735
+Andhra Pradesh Circle,Kurnool Region,Tirupati Division,Chandragiri H.O,517101,HO,Delivery,Tirupati,ANDHRA PRADESH,13.5913611,79.3199444
+Andhra Pradesh Circle,Kurnool Region,Tirupati Division,Srikalahasti H.O,517644,HO,Delivery,Tirupati,ANDHRA PRADESH,13.748928,79.707452
+Andhra Pradesh Circle,Vijayawada Region,Guntur Division,Guntur H.O,522002,HO,Delivery,GUNTUR,ANDHRA PRADESH,16.3023663,80.4353233
+Andhra Pradesh Circle,Vijayawada Region,Machilipatnam Division,Machilipatnam H.O,521001,HO,Delivery,KRISHNA,ANDHRA PRADESH,16.1844266327407,81.134891117549
+Andhra Pradesh Circle,Visakhapatnam Region,Amalapuram Division,Amalapuram H.O,533201,HO,Delivery,Konaseema,ANDHRA PRADESH,16.57652778,82.00297222
+Andhra Pradesh Circle,Visakhapatnam Region,Anakapalle Division,Anakapalle H.O,531001,HO,Delivery,Anakapalli,ANDHRA PRADESH,17.6913056,83.0026944
+Andhra Pradesh Circle,Visakhapatnam Region,Rajahmundry Division,Ramachandrapuram H.O,533255,HO,Delivery,Konaseema,ANDHRA PRADESH,16.8350833,82.0310833
+Andhra Pradesh Circle,Visakhapatnam Region,Vizianagaram Division,Vizianagaram H.O,535002,HO,Delivery,VIZIANAGARAM,ANDHRA PRADESH,18.111801,83.408944
+Assam Circle,DivReportingCircle,Goalpara Division,Goalpara Head Post Office,783101,HO,Delivery,GOALPARA,ASSAM,26.14587,90.61544
+Assam Circle,DivReportingCircle,Cachar Division,Hailakandi H.O,788151,HO,Delivery,HAILAKANDI,ASSAM,24.6779020,92.5548080
+Assam Circle,DivReportingCircle,Darrang Division,Tezpur H.O,784001,HO,Delivery,SONITPUR,ASSAM,26.7070425,92.7777184
+Bihar Circle,East Region Bhagalpur,Begusarai Division,Begusarai HO,851101,HO,Delivery,BEGUSARAI,BIHAR,25.4166750,86.1293790
+Bihar Circle,Muzaffarpur Region,Darbhanga Division,Darbhanga HO,846004,HO,Delivery,DARBHANGA,BIHAR,26.1561667,85.8928889
+Bihar Circle,Muzaffarpur Region,Madhubani Division,Madhubani HO,847211,HO,Delivery,MADHUBANI,BIHAR,26.3472500,86.0718611
+Bihar Circle,East Region Bhagalpur,Purnea Division,Purnea HO,854301,HO,Delivery,PURNIA,BIHAR,25.7771391,87.4752551
+Bihar Circle,Muzaffarpur Region,Sitamarhi Division,Sitamarhi HO,843301,HO,Delivery,SITAMARHI,BIHAR,26.5637222,85.5243333
+Bihar Circle,Muzaffarpur Region,West Champaran Division,Bettiah HO,845438,HO,Delivery,PASHCHIM CHAMPARAN,BIHAR,26.8022778,84.5152222
+Bihar Circle,DivReportingCircle,AurangabadBihar Division,Aurangabad BH HO,824101,HO,Delivery,AURANGABAD,BIHAR,24.770316,84.248952
+Bihar Circle,DivReportingCircle,Rohtas Division,Sasaram HO,821115,HO,Delivery,ROHTAS,BIHAR,24.9500000,84.0333000
+Chattisgarh Circle,DivReportingCircle,Bastar Division,Kanker H.O,494334,HO,Delivery,RAIPUR,CHHATTISGARH,20.265096,81.495890000000003
+Chattisgarh Circle,DivReportingCircle,Raigarh Division,Raigarh HO,496001,HO,Delivery,RAIGARH,CHHATTISGARH,21.892453,83.390497
+Delhi Circle,DivReportingCircle,New Delhi Central Division,Sansad Marg HO,110001,HO,Non Delivery,NEW DELHI,DELHI,28.6225833,77.2127222
+Delhi Circle,DivReportingCircle,New Delhi GPO Division,New Delhi GPO,110001,HO,Delivery,NEW DELHI,DELHI,28.6268060,77.2066300
+Gujarat Circle,Ahmedabad HQ Region,Ahmedabad City Division,Revdibazar HO,380002,HO,Non Delivery,AHMADABAD,GUJARAT,23.028048,72.598523
+Gujarat Circle,Rajkot Region,Rajkot Division,Rajkot HO,360001,HO,Delivery,RAJKOT,GUJARAT,22.2986997,70.7996256
+Gujarat Circle,Vadodara Region,Anand Division,Anand HO,388001,HO,Delivery,ANAND,GUJARAT,22.559237585801156,72.96434941485613
+Gujarat Circle,Vadodara Region,Panchmahals Division,Godhra HO,389001,HO,Delivery,PANCH MAHALS,GUJARAT,22.7767500,73.6124444
+Gujarat Circle,Vadodara Region,Valsad Division,Valsad HO,396001,HO,Delivery,VALSAD,GUJARAT,20.6076180,72.9265810
+Haryana Circle,DivReportingCircle,Ambala Division,Ambala City H.O,134003,HO,Delivery,AMBALA,HARYANA,30.3842500,76.7716667
+Haryana Circle,DivReportingCircle,Bhiwani Division,Bhiwani HO,127021,HO,Delivery,BHIWANI,HARYANA,28.7752000,75.9928000
+Haryana Circle,DivReportingCircle,Gurgaon Division,Gurgaon HO,122001,HO,Delivery,GURUGRAM,HARYANA,28.4620000,77.0316389
+Haryana Circle,DivReportingCircle,Bhiwani Division,Narnaul HO,123001,HO,Delivery,MAHENDRAGARH,HARYANA,228.04489,76.117029
+Haryana Circle,DivReportingCircle,Karnal Division,Jind H.O,126102,HO,Delivery,JIND,HARYANA,29.3613,76.1912
+Haryana Circle,DivReportingCircle,Kurukshetra Division,Kurukshetra H.O,136118,HO,Delivery,KURUKSHETRA,HARYANA,29.973216999999998,76.846972199999996
+Haryana Circle,DivReportingCircle,Rohtak Division,Bahadurgarh HO,124507,HO,Delivery,JHAJJAR,HARYANA,28.636391,76.921349
+Himachal Pradesh Circle,DivReportingCircle,Mandi Division,Keylong HO,175132,HO,Delivery,LAHUL AND SPITI,HIMACHAL PRADESH,32.5710000,77.0320000
+Himachal Pradesh Circle,DivReportingCircle,Mandi Division,Kullu HO,175101,HO,Delivery,KULLU,HIMACHAL PRADESH,31.960965,77.107898
+Himachal Pradesh Circle,DivReportingCircle,Rampur Bushahr Division,Rampur Bushahr HO,172001,HO,Delivery,SHIMLA,HIMACHAL PRADESH,31.4483268,77.6303387
+Jammu Kashmir Circle,JAMMU RN,Jammu Division,Gandhinagar HO,180004,HO,Delivery,JAMMU,JAMMU AND KASHMIR,32.6984722,74.8575833
+Jammu Kashmir Circle,Srinagar HQ Region,Srinagar Division,Srinagar GPO,190001,HO,Delivery,SRINAGAR,JAMMU AND KASHMIR,34.0720833,74.8206667
+Jharkhand Circle,DivReportingCircle,Dhanbad Division,Dhanbad HO,826001,HO,Delivery,DHANBAD,JHARKHAND,23.7966944,86.4339167
+Jharkhand Circle,DivReportingCircle,Giridih Division,Giridih HO,815301,HO,Delivery,GIRIDIH,JHARKHAND,24.184713,86.302193
+Jharkhand Circle,DivReportingCircle,Gumla Division,Gumla HO,835207,HO,Delivery,GUMLA,JHARKHAND,23.0441389,84.5413889
+Karnataka Circle,Bengaluru HQ Region,Bengaluru East Division,R T Nagar H.O,560032,HO,Delivery,BENGALURU URBAN,KARNATAKA,13.021645299999999,77.592799799999995
+Karnataka Circle,Bengaluru HQ Region,Channapatna Division,Channapatna H.O,562160,HO,Delivery,RAMANAGARA,KARNATAKA,12.6542500,77.2028056
+Karnataka Circle,North Karnataka Region,Bagalkot Division,Bagalkot H.O,587101,HO,Delivery,BAGALKOT,KARNATAKA,16.1812500,75.6991667
+Karnataka Circle,North Karnataka Region,Ballari Division,Hosapete H.O,583201,HO,Delivery,VIJAYNAGAR,KARNATAKA,15.2713889,76.391000000000005
+Karnataka Circle,North Karnataka Region,Vijayapura Division,Vijayapura H.O,586101,HO,Delivery,VIJAYAPURA,KARNATAKA,16.829520299999999,75.716762299999999
+Karnataka Circle,North Karnataka Region,Raichur Division,Raichur H.O,584101,HO,Delivery,RAICHUR,KARNATAKA,16.203277799999999,77.348777799999993
+Karnataka Circle,South Karnataka Region,Chikkamagaluru Division,Koppa H.O,577126,HO,Delivery,CHIKKAMAGALURU,KARNATAKA,13.5343611,75.3658611
+Karnataka Circle,South Karnataka Region,Chitradurga Division,Chitradurga H.O,577501,HO,Delivery,CHITRADURGA,KARNATAKA,14.221583300000001,76.397416699999994
+Karnataka Circle,South Karnataka Region,DAVANAGERE DIVISION,Davangere H.O,577001,HO,Delivery,DAVANGERE,KARNATAKA,14.4688889,75.9197778
+Karnataka Circle,South Karnataka Region,Hassan Division,Arsikere H.O,573103,HO,Delivery,HASSAN,KARNATAKA,13.3174722,76.2533056
+Karnataka Circle,South Karnataka Region,Kodagu Division,Madikeri H.O,571201,HO,Delivery,KODAGU,KARNATAKA,12.42236111,75.74016667
+Karnataka Circle,South Karnataka Region,Mandya Division,Mandya H.O,571401,HO,Delivery,MANDYA,KARNATAKA,12.529999999999999,76.890000000000001
+Karnataka Circle,South Karnataka Region,Nanjangud Division,Nanjangud H.O,571301,HO,Delivery,MYSURU,KARNATAKA,12.12233333,76.680083330000002
+Karnataka Circle,South Karnataka Region,Shivamogga Division,Bhadravati H.O,577301,HO,Delivery,SHIVAMOGGA,KARNATAKA,13.8525556,75.7116111
+Karnataka Circle,South Karnataka Region,Tumakuru Division,Tiptur H.O,572201,HO,Delivery,TUMAKURU,KARNATAKA,13.2585833,76.4782778
+Kerala Circle,Kochi Region,Alleppey Division,Cherthala HO,688524,HO,Delivery,ALAPPUZHA,KERALA,9.6840000,76.3410833
+Kerala Circle,Kochi Region,Ernakulam Division,Kochi HO,682001,HO,Delivery,ERNAKULAM,KERALA,9.965555556,76.24141667
+Kerala Circle,Kochi Region,Idukki Division,Thodupuzha HO,685584,HO,Delivery,IDUKKI,KERALA,9.8974167,76.7154444
+Kerala Circle,Kochi Region,Irinjalakuda Division,Chalakudi HO,680307,HO,Delivery,THRISSUR,KERALA,10.3077222,76.3350000
+Kerala Circle,Kochi Region,Kottayam Division,Vaikom HO,686141,HO,Delivery,KOTTAYAM,KERALA,9.75008,76.39022
+Kerala Circle,Kochi Region,Lakshadweep Division,Kavaratti H.O,682555,HO,Delivery,LAKSHADWEEP DISTRICT,LAKSHADWEEP,NA,NA
+Kerala Circle,DivReportingCircle,Quilon Division,Karunagappally HO,690518,HO,Delivery,KOLLAM,KERALA,9.0600000,76.5400000
+Kerala Circle,Calicut Region,Calicut Division,Calicut Civil Station HO,673020,HO,Delivery,KOZHIKODE,KERALA,11.284956,75.790712
+Kerala Circle,Calicut Region,Cannanore Division,Kannur HO,670001,HO,Delivery,KANNUR,KERALA,11.8745350,75.3701900
+Kerala Circle,Calicut Region,Manjeri Division,Malappuram HO,676505,HO,Delivery,MALAPPURAM,KERALA,11.0509760,76.0710970
+Kerala Circle,Calicut Region,Tirur Division,Ponani HO,679577,HO,Delivery,MALAPPURAM,KERALA,10.7677201,75.9259013
+Madhya Pradesh Circle,Jabalpur Region,Chhatarpur Division,Chhatarpur H.O,471001,HO,Delivery,CHHATARPUR,MADHYA PRADESH,24.9058890,79.5837500
+Madhya Pradesh Circle,Jabalpur Region,Chhindwara Division,Chhindwara H.O,480001,HO,Delivery,CHHINDWARA,MADHYA PRADESH,22.0533889,78.9378611
+Madhya Pradesh Circle,Jabalpur Region,Rewa Division,Rewa H.O,486001,HO,Delivery,REWA,MADHYA PRADESH,24.5439167,81.3015833
+Madhya Pradesh Circle,Jabalpur Region,Sagar Division,Sagar Cantt H.O,470001,HO,Delivery,SAGAR,MADHYA PRADESH,23.8388050,78.7378070
+Madhya Pradesh Circle,DivReportingCircle,Vidisha Division,Vidisha H.O,464001,HO,Delivery,VIDISHA,MADHYA PRADESH,23.5245833,77.8105556
+Madhya Pradesh Circle,Indore Region,Indore City Division,Indore Nagar H.O,452007,HO,Delivery,INDORE,MADHYA PRADESH,22.7198333,75.8611111
+Madhya Pradesh Circle,Indore Region,Indore Moffusil Division,Dewas H.O,455001,HO,Delivery,DEWAS,MADHYA PRADESH,22.9624180,76.0496040
+Madhya Pradesh Circle,Indore Region,Ratlam Division,Ratlam H.O,457001,HO,Delivery,RATLAM,MADHYA PRADESH,23.3311667,75.0373889
+Madhya Pradesh Circle,Indore Region,Sehore Division,Sehore H.O,466001,HO,Delivery,SEHORE,MADHYA PRADESH,23.1989220,77.0868430
+Madhya Pradesh Circle,DivReportingCircle,Guna Division,Guna H.O,473001,HO,Delivery,GUNA,MADHYA PRADESH,24.6652600,77.3606860
+Maharashtra Circle,Goa-Panaji Region,Goa Division,Panaji H.O,403001,HO,Delivery,NORTH GOA,GOA,15.49913190,73.83233130
+Maharashtra Circle,Goa-Panaji Region,Kolhapur Division,Ichalkaranji H.O,416115,HO,Delivery,KOLHAPUR,MAHARASHTRA,16.6841012,74.4688653
+Maharashtra Circle,Mumbai Region,Mumbai City North East Division,Chembur HO,400071,HO,Delivery,MUMBAI SUBURBAN,MAHARASHTRA,19.0566895,72.898216
+Maharashtra Circle,Mumbai Region,Mumbai GPO Division,Mumbai GPO,400001,HO,Delivery,MUMBAI,MAHARASHTRA,18.9391667,72.8375556
+Maharashtra Circle,Nagpur Region,Buldana Division,Khamgaon H.O,444303,HO,Delivery,BULDHANA,MAHARASHTRA,20.7077778,76.5688889
+Maharashtra Circle,Nagpur Region,Chandrapur Division,Chandrapur H.O,442401,HO,Delivery,CHANDRAPUR,MAHARASHTRA,19.962265,79.2963
+Maharashtra Circle,Nagpur Region,Wardha Division,Wardha H.O,442001,HO,Delivery,WARDHA,MAHARASHTRA,21.1483333,79.0715556
+Maharashtra Circle,Pune Region,Shrirampur Division,Shrirampur H.O,413709,HO,Delivery,AHMEDNAGAR,MAHARASHTRA,19.618564497077056,74.66251531217345
+Maharashtra Circle,Regional Office Aurangabad,Chhatrapati Sambhajinagar Division,Chhatrapati Sambhajinagar (MH) H.O,431001,HO,Delivery,AURANGABAD,MAHARASHTRA,19.888632,75.325199
+Maharashtra Circle,Regional Office Aurangabad,Beed Division,Beed H.O,431122,HO,Delivery,BEED,MAHARASHTRA,18.989635,75.75621
+Maharashtra Circle,Regional Office Aurangabad,Jalgaon Division,Chalisgaon H.O,424101,HO,Delivery,JALGAON,MAHARASHTRA,20.460336,75.011102
+Maharashtra Circle,Regional Office Aurangabad,Pharbhani Division,Parbhani H.O,431401,HO,Delivery,PARBHANI,MAHARASHTRA,19.272097160000001,76.772164369999999
+North Eastern Circle,North East - II Region,Nagaland Division,Kohima H.O,797001,HO,Delivery,KOHIMA,NAGALAND,25.67077778,94.10758333
+North Eastern Circle,North East - I Region,Agartala Division,Radhakishorepur H.O,799120,HO,Delivery,Gomati,TRIPURA,23.54083333,91.49175
+Odisha Circle,Bhubaneswar HQ Region,Balasore Division,Balasore H.O,756001,HO,Delivery,BALESHWAR,ODISHA,20.5016667,86.9233333
+Odisha Circle,Bhubaneswar HQ Region,Bhubaneswar Division,Bhubaneswar G.P.O.,751001,HO,Delivery,KHORDHA,ODISHA,20.2723056,85.8339722
+Odisha Circle,Bhubaneswar HQ Region,Puri Division,Puri H.O,752001,HO,Delivery,PURI,ODISHA,19.8005000,85.8262222
+Odisha Circle,Sambalpur Region,Balangir Division,Balangir H.O,767001,HO,Delivery,BALANGIR,ODISHA,20.7017778,83.4847500
+Odisha Circle,Sambalpur Region,Dhenkanal Division,Dhenkanal H.O,759001,HO,Delivery,DHENKANAL,ODISHA,20.6540833,85.5993333
+Odisha Circle,Berhampur Region,Kalahandi Division,Bhawanipatna H.O,766001,HO,Delivery,KALAHANDI,ODISHA,19.9083857,83.1701798
+Odisha Circle,Berhampur Region,Koraput Division,Jeypore(K) H.O,764001,HO,Delivery,KORAPUT,ODISHA,18.8630620,82.5666860
+Punjab Circle,DivReportingCircle,Ludhiana Moffusil Division,Khanna HO,141401,HO,Delivery,LUDHIANA,PUNJAB,30.7029167,76.2244167
+Punjab Circle,Punjab West Region,Bhatinda Division,Bathinda HO,151001,HO,Delivery,BATHINDA,PUNJAB,30.204677,74.949001
+Punjab Circle,Punjab West Region,Kapurthala Division,Kapurthala HO,144601,HO,Delivery,KAPURTHALA,PUNJAB,31.3721893,75.3777881
+Rajasthan Circle,Ajmer Region,Ajmer Division,Madanganj Kishangarh H.O,305801,HO,Delivery,AJMER,RAJASTHAN,26.5863889,74.8602778
+Rajasthan Circle,DivReportingCircle,Alwar Division,Alwar H.O,301001,HO,Delivery,ALWAR,RAJASTHAN,27.561542,76.613021
+Rajasthan Circle,DivReportingCircle,Bharatpur Division,Deeg H.O,321203,HO,Delivery,BHARATPUR,RAJASTHAN,27.4745278,77.3279722
+Rajasthan Circle,DivReportingCircle,Jaipur Moffusil Division,Shahpura HO,303103,HO,Delivery,JAIPUR,RAJASTHAN,27.3852778,75.9597778
+Rajasthan Circle,Jodhpur Region,Bikaner Division,Bikaner H.O,334001,HO,Delivery,BIKANER,RAJASTHAN,28.0208333,73.3158333
+Rajasthan Circle,Jodhpur Region,Pali Division,Marwar Jn. H.O,306001,HO,Delivery,PALI,RAJASTHAN,26.2063889,74.0247222
+Tamilnadu Circle,Chennai City Region,Arakkonam Division,Arakkonam HO,631001,HO,Delivery,Ranipet,TAMIL NADU,13.0806389,79.6988333
+Tamilnadu Circle,Chennai City Region,Arakkonam Division,Ranipet HO,632401,HO,Delivery,Ranipet,TAMIL NADU,12.9283030,79.3324850
+Tamilnadu Circle,Chennai City Region,Pondicherry Division,Tindivanam HO,604001,HO,Delivery,VILLUPURAM,TAMIL NADU,12.2271944,79.6496389
+Tamilnadu Circle,Western Region Coimbatore,Erode Division,Erode HO,638001,HO,Delivery,ERODE,TAMIL NADU,11.4453130,77.6879880
+Tamilnadu Circle,Southern Region Madurai,Kovilpatti Division,Kovilpatti H.O,628501,HO,Delivery,TUTICORIN,TAMIL NADU,9.1606000,77.8440000
+Tamilnadu Circle,Southern Region Madurai,Ramanathapuram Division,Ramanathapuram HO,623501,HO,Delivery,RAMANATHAPURAM,TAMIL NADU,9.360065,78.861618
+Tamilnadu Circle,Southern Region Madurai,Sivaganga Division,Manamadurai HO,630606,HO,Delivery,SIVAGANGA,TAMIL NADU,9.689999,78.452096
+Tamilnadu Circle,Southern Region Madurai,Tirunelveli Division,Tirunelveli HO,627001,HO,Delivery,TIRUNELVELI,TAMIL NADU,8.7285583,77.703892
+Tamilnadu Circle,Southern Region Madurai,Virudhunagar Division,Aruppukottai HO,626101,HO,Delivery,VIRUDHUNAGAR,TAMIL NADU,9.5081140,78.1059950
+Tamilnadu Circle,Southern Region Madurai,Virudhunagar Division,Rajapalayam HO,626117,HO,Delivery,VIRUDHUNAGAR,TAMIL NADU,9.4505833,77.5599167
+Tamilnadu Circle,Central Region Trichirapalli,Kumbakonam Division,Kumbakonam H.O,612001,HO,Delivery,THANJAVUR,TAMIL NADU,10.9577222,79.3803056
+Tamilnadu Circle,Central Region Trichirapalli,Mayiladuthurai Division,Sirkali H.O,609110,HO,Delivery,MAYILADUTHURAI,TAMIL NADU,11.2379167,79.7346667
+Tamilnadu Circle,Central Region Trichirapalli,Srirangam Division,Srirangam H.O,620006,HO,Delivery,TIRUCHIRAPPALLI,TAMIL NADU,10.8600000,78.6900000
+Tamilnadu Circle,Central Region Trichirapalli,Thanjavur Division,Mannargudi H.O,614001,HO,Delivery,THIRUVARUR,TAMIL NADU,10.6673056,79.4470556
+Tamilnadu Circle,Central Region Trichirapalli,Thanjavur Division,Papanasam H.O,614205,HO,Delivery,THANJAVUR,TAMIL NADU,10.9226667,79.2671389
+Tamilnadu Circle,Central Region Trichirapalli,Tiruchirapalli Division,Tiruchirappalli HO,620001,HO,Delivery,TIRUCHIRAPPALLI,TAMIL NADU,10.8013333,78.6891111
+Uttar Pradesh Circle,Agra Region,Agra Division,Agra Fort HO,282003,HO,Delivery,AGRA,UTTAR PRADESH,27.1795328,78.0211120
+Uttar Pradesh Circle,Agra Region,Etawah Division,Auraiya HO,206122,HO,Delivery,AURAIYA,UTTAR PRADESH,26.4639575,79.5145534
+Uttar Pradesh Circle,Agra Region,Jhansi Division,JHANSI HO,284001,HO,Delivery,JHANSI,UTTAR PRADESH,25.4401307,78.5772174
+Uttar Pradesh Circle,Agra Region,Jhansi Division,ORAI HO,285001,HO,Delivery,JALAUN,UTTAR PRADESH,25.9906066,79.4538491
+Uttar Pradesh Circle,Agra Region,Mainpuri Division,Mainpuri HO,205001,HO,Delivery,MAINPURI,UTTAR PRADESH,27.238000,79.055436
+Uttar Pradesh Circle,Varanasi Region,Ghazipur Division,Ghazipur HO,233001,HO,Delivery,GHAZIPUR,UTTAR PRADESH,25.5765,83.57319444
+Uttar Pradesh Circle,Prayagraj Regional Office,Mirzapur Division,Mirzapur HO,231001,HO,Delivery,MIRZAPUR,UTTAR PRADESH,25.1601350,82.5911600
+Uttar Pradesh Circle,Bareilly Region,Bijnor Division,Dhampur HO,246761,HO,Delivery,ALIGARH,UTTAR PRADESH,29.18343,78.30288
+Uttar Pradesh Circle,Bareilly Region,Hardoi Division,Hardoi HO,241001,HO,Delivery,HARDOI,UTTAR PRADESH,27.3986944,80.1285000
+Uttar Pradesh Circle,Bareilly Region,Saharanpur Division,Saharanpur HO,247001,HO,Delivery,SAHARANPUR,UTTAR PRADESH,29.9603056,77.5458889
+Uttar Pradesh Circle,Bareilly Region,Shahjahanpur Division,Shahjahanpur HO,242001,HO,Delivery,SHAHJAHANPUR,UTTAR PRADESH,27.8922007,79.9172843
+Uttar Pradesh Circle,Gorakhpur Region,Gonda Division,Gonda HO,271001,HO,Delivery,GONDA,UTTAR PRADESH,27.1289167,81.9433056
+Uttar Pradesh Circle,Kanpur Region,Kanpur City Division,Kanpur Cantt HO,208004,HO,Delivery,KANPUR NAGAR,UTTAR PRADESH,26.4514167,80.3730278
+Uttar Pradesh Circle,Prayagraj Regional Office,Sultanpur Division,Amethi HO,227405,HO,Delivery,Amethi,UTTAR PRADESH,26.1373156,81.6993374
+Uttar Pradesh Circle,Prayagraj Regional Office,Sultanpur Division,Sultanpur Avadh HO,228001,HO,Delivery,SULTANPUR,UTTAR PRADESH,26.2644600,82.0733780
+Uttarakhand Circle,DivReportingCircle,Dehradun Division,Dehradun Cantt HO,248003,HO,Delivery,DEHRADUN,UTTARAKHAND,30.3524167,78.0270833
+Uttarakhand Circle,DivReportingCircle,Pithoragarh Division,Pithoragarh HO,262501,HO,Delivery,PITHORAGARH,UTTARAKHAND,29.587060,80.210376
+West Bengal Circle,Kolkata Region,Murshidabad Division,Kandi HO,742137,HO,Delivery,MURSHIDABAD,WEST BENGAL,23.9542500,88.0372500
+West Bengal Circle,Kolkata Region,Nadia North Division,Krishnanagar HO,741101,HO,Delivery,NADIA,WEST BENGAL,23.4087222,88.4956111
+West Bengal Circle,Kolkata Region,Nadia North Division,Nabadwip HO,741302,HO,Delivery,NADIA,WEST BENGAL,23.4049167,88.3632500
+West Bengal Circle,Kolkata Region,Nadia South Division,Kalyani HO,741235,HO,Delivery,NADIA,WEST BENGAL,22.9756667,88.4353889
+West Bengal Circle,Kolkata Region,Baruipur Division,Baruipur HO,700144,HO,Delivery,24 PARAGANAS SOUTH,WEST BENGAL,22.3615000,88.4321667
+West Bengal Circle,North Bengal Region,Jalpaiguri Division,Mal HO,735221,HO,Delivery,JALPAIGURI,WEST BENGAL,26.8693056,88.7426111
+Telangana Circle,Hyderabad Region,Adilabad Division,Adilabad H.O,504001,HO,Delivery,ADILABAD,TELANGANA,19.671677,78.537184
+Telangana Circle,Hyderabad City Region,Medak Division,Siddipet H.O,502103,HO,Delivery,SIDDIPET,TELANGANA,18.105264,78.843662
+Telangana Circle,Hyderabad Region,Wanaparthy Division,Wanaparthy H.O,509103,HO,Delivery,WANAPARTHY,TELANGANA,16.3646111,78.0647500
+Telangana Circle,Hyderabad City Region,Hyderabad South East Division,Charminar H.O,500002,HO,Delivery,HYDERABAD,TELANGANA,17.368663,78.477662
+Andhra Pradesh Circle,Kurnool Region,Hindupur Division,Dharmavaram H.O,515671,HO,Delivery,Sri Sathya Sai,ANDHRA PRADESH,14.41236111,77.72305556
+Andhra Pradesh Circle,Kurnool Region,Proddatur Division,Proddatur H.O,516360,HO,Delivery,Y.S.R.,ANDHRA PRADESH,14.747194,78.544786
+Andhra Pradesh Circle,Kurnool Region,Tirupati Division,Tirupati H.O,517501,HO,Delivery,Tirupati,ANDHRA PRADESH,13.6322875,79.4226094
+Andhra Pradesh Circle,Vijayawada Region,Eluru Division,Jangareddygudem H.O,534447,HO,Delivery,Eluru,ANDHRA PRADESH,17.1150556,81.2971944
+Andhra Pradesh Circle,Vijayawada Region,Gudivada Division,Gudivada H.O,521301,HO,Delivery,KRISHNA,ANDHRA PRADESH,16.4338333,80.9916667
+Andhra Pradesh Circle,Vijayawada Region,Machilipatnam Division,Avanigadda H.O,521121,HO,Delivery,KRISHNA,ANDHRA PRADESH,16.02008333,80.91555556
+Andhra Pradesh Circle,Vijayawada Region,Prakasam Division,Chirala H.O,523155,HO,Delivery,Bapatla,ANDHRA PRADESH,15.8291667,80.3520000
+Andhra Pradesh Circle,Vijayawada Region,Markapur  Division,Podili H.O,523240,HO,Delivery,PRAKASAM,ANDHRA PRADESH,15.6053333,79.6180556
+Andhra Pradesh Circle,Vijayawada Region,Tenali Division,Bapatla H.O,522101,HO,Delivery,Bapatla,ANDHRA PRADESH,15.90369444,80.46794444
+Andhra Pradesh Circle,Visakhapatnam Region,Amalapuram Division,Razole H.O,533242,HO,Delivery,Konaseema,ANDHRA PRADESH,16.47786111,81.83963889
+Andhra Pradesh Circle,Visakhapatnam Region,Parvathipuram Division,Parvatipuram H.O,535501,HO,Delivery,Parvathipuram Manyam,ANDHRA PRADESH,18.7727778,83.4244167
+Assam Circle,Dibrugarh Region,Dibrugarh Division,North Lakhimpur H.O,787001,HO,Delivery,LAKHIMPUR,ASSAM,27.2375556,94.1075000
+Assam Circle,Dibrugarh Region,Nagaon Division,Nagaon H.O,782001,HO,Delivery,NAGAON,ASSAM,26.3486944,92.7005000
+Assam Circle,DivReportingCircle,Guwahati Division,Guwahati University H.O,781014,HO,Delivery,KAMRUP METRO,ASSAM,26.1552222,91.6647222
+Assam Circle,DivReportingCircle,Nalbari Division,Nalbari H.O,781335,HO,Delivery,NALBARI,ASSAM,26.4447778,91.4380000
+Bihar Circle,Muzaffarpur Region,Saran Division,Chapra HO,841301,HO,Delivery,SARAN,BIHAR,25.7795650,84.7498890
+Bihar Circle,Muzaffarpur Region,Siwan Division,Gopalganj HO,841428,HO,Delivery,GOPALGANJ,BIHAR,26.4676667,84.4403056
+Bihar Circle,East Region Bhagalpur,Bhagalpur Division,Banka HO,813102,HO,Delivery,BANKA,BIHAR,24.8866944,86.9183889
+Bihar Circle,East Region Bhagalpur,Bhagalpur Division,Bhagalpur HO,812001,HO,Delivery,BHAGALPUR,BIHAR,25.2496944,86.9869722
+Bihar Circle,DivReportingCircle,Bhojpur Division,Buxar HO,802101,HO,Delivery,BUXAR,BIHAR,25.5784166,83.9789722
+Bihar Circle,East Region Bhagalpur,Nalanda Division,Biharsharif HO,803101,HO,Delivery,NALANDA,BIHAR,25.1963333,85.5200000
+Chattisgarh Circle,DivReportingCircle,Bilaspur Division,Korba HO,495677,HO,Delivery,KORBA,CHHATTISGARH,22.36168743,82.730405439999998
+Chattisgarh Circle,DivReportingCircle,Durg Division,Durg HO,491001,HO,Delivery,DURG,CHHATTISGARH,21.186133000000002,81.276797000000002
+Chattisgarh Circle,DivReportingCircle,SURGUJA DIVISION,Ambikapur HO,497001,HO,Delivery,SURGUJA,CHHATTISGARH,23.116372,83.193211
+Delhi Circle,DivReportingCircle,New Delhi West Division,Ramesh Nagar H.O,110015,HO,Delivery,WEST,DELHI,28.6498611,77.1306667
+Gujarat Circle,Ahmedabad HQ Region,Ahmedabad City Division,Navrangpura HO,380009,HO,Delivery,AHMADABAD,GUJARAT,23.034955,72.563609
+Gujarat Circle,Ahmedabad HQ Region,Mahesana Division,Mahesana HO,384001,HO,Delivery,MAHESANA,GUJARAT,23.613824999999999,72.398685
+Gujarat Circle,Rajkot Region,Jamnagar Division,Jamnagar HO,361001,HO,Delivery,JAMNAGAR,GUJARAT,22.4654722,70.0785000
+Gujarat Circle,Rajkot Region,Kutch Division,Bhuj HO,370001,HO,Delivery,KACHCHH,GUJARAT,23.2469444,69.6731944
+Gujarat Circle,Rajkot Region,Surendranagar Division,Surendranagar HO,363001,HO,Delivery,SURENDRANAGAR,GUJARAT,22.724768000000001,71.627375000000001
+Gujarat Circle,Vadodara Region,Panchmahals Division,Dahod HO,389151,HO,Delivery,DOHAD,GUJARAT,22.8321667,74.2582500
+Gujarat Circle,Vadodara Region,Vadodara East Division,Vadodara HO,390001,HO,Delivery,VADODARA,GUJARAT,22.3035833,73.1976944
+Haryana Circle,DivReportingCircle,Hissar Division,Sirsa HO,125055,HO,Delivery,SIRSA,HARYANA,29.5347778,75.0320833
+Haryana Circle,DivReportingCircle,Karnal Division,Panipat H.O,132103,HO,Delivery,PANIPAT,HARYANA,29.3961111,76.9603333
+Himachal Pradesh Circle,DivReportingCircle,Dehra Gopipur Division,Dehra HO,177101,HO,Delivery,KANGRA,HIMACHAL PRADESH,31.881526,76.212714
+Himachal Pradesh Circle,DivReportingCircle,Una Division,Una HO,174303,HO,Delivery,UNA,HIMACHAL PRADESH,31.4600000,76.2700000
+Jammu Kashmir Circle,Srinagar HQ Region,Baramulla Division,Baramulla H.O,193101,HO,Delivery,BARAMULLA,JAMMU AND KASHMIR,34.205,74.35041667
+Jammu Kashmir Circle,JAMMU RN,Jammu Division,Kathua HO,184101,HO,Delivery,KATHUA,JAMMU AND KASHMIR,32.3673333,75.5223333
+Jammu Kashmir Circle,Srinagar HQ Region,Srinagar Division,Anantnag HO,192101,HO,Delivery,ANANTNAG,JAMMU AND KASHMIR,33.7308611,75.1501944
+Jharkhand Circle,DivReportingCircle,Santhal Parganas Division,Dumka HO,814101,HO,Delivery,DUMKA,JHARKHAND,24.264313,87.250339
+Jharkhand Circle,DivReportingCircle,Singhbhum Division,Chaibasa HO,833201,HO,Delivery,WEST SINGHBHUM,JHARKHAND,22.54575,85.80509
+Karnataka Circle,Bengaluru HQ Region,Bengaluru West Division,Rajajinagar H.O,560010,HO,Delivery,BENGALURU URBAN,KARNATAKA,12.993209,77.554461000000003
+Karnataka Circle,North Karnataka Region,Belagavi Division,Belagavi H.O,590001,HO,Delivery,BELAGAVI,KARNATAKA,15.852145999999999,74.511114000000006
+Karnataka Circle,North Karnataka Region,Bidar Division,Bidar H.O,585401,HO,Delivery,BIDAR,KARNATAKA,17.91163889,77.51936111
+Karnataka Circle,North Karnataka Region,Chikodi Division,Chikodi H.O,591201,HO,Delivery,BELAGAVI,KARNATAKA,16.424657,74.587711999999996
+Karnataka Circle,North Karnataka Region,Dharwad Division,Dharwad H.O,580001,HO,Delivery,DHARWAD,KARNATAKA,15.4518333,75.0062500
+Karnataka Circle,North Karnataka Region,KOPPAL DIVISION,Koppal H.O,583231,HO,Delivery,KOPPAL,KARNATAKA,15.3493762,76.153785799999994
+Karnataka Circle,North Karnataka Region,Haveri Division,Haveri H.O,581110,HO,Delivery,HAVERI,KARNATAKA,14.7908241,75.4080982
+Karnataka Circle,South Karnataka Region,Hassan Division,Hassan H.O,573201,HO,Delivery,HASSAN,KARNATAKA,13.0053333,76.1000556
+Karnataka Circle,South Karnataka Region,Kolar Division,Kolar H.O,563101,HO,Delivery,KOLAR,KARNATAKA,13.1356389,78.134222199999996
+Karnataka Circle,South Karnataka Region,Mandya Division,Srirangapatna H.O,571438,HO,Delivery,MANDYA,KARNATAKA,12.42,76.680000000000007
+Karnataka Circle,South Karnataka Region,Nanjangud Division,Kollegal H.O,571440,HO,Delivery,CHAMARAJANAGARA,KARNATAKA,12.16138889,77.11058333
+Karnataka Circle,South Karnataka Region,Puttur Division,Karkala H.O,574104,HO,Delivery,UDUPI,KARNATAKA,13.2127611,74.994730200000006
+Karnataka Circle,South Karnataka Region,Shivamogga Division,Sagar H.O,577401,HO,Delivery,SHIVAMOGGA,KARNATAKA,14.1675833,75.026638899999995
+Karnataka Circle,South Karnataka Region,Tumakuru Division,Tumakuru H.O,572101,HO,Delivery,TUMAKURU,KARNATAKA,13.316861100000001,77.108638900000003
+Kerala Circle,Kochi Region,Alwaye Division,Aluva HO,683101,HO,Delivery,ERNAKULAM,KERALA,10.110296,76.359474
+Kerala Circle,Kochi Region,Alwaye Division,Muvattupuzha HO,686661,HO,Delivery,ERNAKULAM,KERALA,9.980139,76.580462
+Kerala Circle,Kochi Region,Kottayam Division,Kottayam HO,686001,HO,Delivery,KOTTAYAM,KERALA,9.591238,76.521798
+Kerala Circle,Calicut Region,Calicut Division,Calicut HO,673001,HO,Delivery,KOZHIKODE,KERALA,11.255757,75.778253
+Kerala Circle,Calicut Region,Cannanore Division,Taliparamba HO,670141,HO,Delivery,KANNUR,KERALA,12.0417670,75.3568610
+Kerala Circle,Calicut Region,Kasaragod Division,Kasaragod HO,671121,HO,Delivery,KASARAGOD,KERALA,12.5105520,74.9856880
+Kerala Circle,Calicut Region,Vadakara Division,Koyilandi HO,673305,HO,Delivery,KOZHIKODE,KERALA,11.4432460,75.6946740
+Madhya Pradesh Circle,Jabalpur Region,Balaghat Division,Balaghat H.O,481001,HO,Delivery,BALAGHAT,MADHYA PRADESH,21.812876,80.183830
+Madhya Pradesh Circle,Jabalpur Region,Chhindwara Division,Betul H.O,460001,HO,Delivery,BETUL,MADHYA PRADESH,21.9040556,77.8996667
+Madhya Pradesh Circle,Jabalpur Region,Satna Division,Satna H.O,485001,HO,Delivery,SATNA,MADHYA PRADESH,24.5617778,80.8300278
+Madhya Pradesh Circle,Indore Region,Indore City Division,Indore G.P.O.,452001,HO,Delivery,INDORE,MADHYA PRADESH,22.7078056,75.8791667
+Madhya Pradesh Circle,Jabalpur Region,Jabalpur Division,Jabalpur H.O,482001,HO,Delivery,JABALPUR,MADHYA PRADESH,23.1614900,79.9548320
+Madhya Pradesh Circle,Jabalpur Region,Jabalpur Division,Katni H.O,483501,HO,Delivery,KATNI,MADHYA PRADESH,23.8345000,80.3926944
+Madhya Pradesh Circle,Indore Region,Khandwa Division,Khandwa H.O,450001,HO,Delivery,EAST NIMAR,MADHYA PRADESH,21.8229167,76.3519444
+Madhya Pradesh Circle,Indore Region,Mandsaur Division,Neemuch H.O,458441,HO,Delivery,NEEMUCH,MADHYA PRADESH,24.4606111,74.8621944
+Madhya Pradesh Circle,Indore Region,Sehore Division,Rajgarh(Bia) H.O,465661,HO,Delivery,RAJGARH,MADHYA PRADESH,24.0003333,76.7295833
+Madhya Pradesh Circle,DivReportingCircle,Guna Division,Ashoknagar H.O,473331,HO,Delivery,ASHOKNAGAR,MADHYA PRADESH,24.5180830,77.7148460
+Madhya Pradesh Circle,DivReportingCircle,Guna Division,Shivpuri H.O,473551,HO,Delivery,SHIVPURI,MADHYA PRADESH,25.4730390,77.7053850
+Madhya Pradesh Circle,DivReportingCircle,Morena Division,Bhind H.O,477001,HO,Delivery,BHIND,MADHYA PRADESH,26.5555250,78.7796230
+Madhya Pradesh Circle,DivReportingCircle,Morena Division,Morena H.O,476001,HO,Delivery,MORENA,MADHYA PRADESH,26.5050440,77.9753860
+Maharashtra Circle,Mumbai Region,Mumbai City North West Division,Borivali HO,400091,HO,Delivery,MUMBAI SUBURBAN,MAHARASHTRA,19.232127,72.840368
+Maharashtra Circle,Nagpur Region,Yeotmal Division,Yavatmal H.O,445001,HO,Delivery,YAVATMAL,MAHARASHTRA,20.38502778,78.119
+Maharashtra Circle,Pune Region,Karad Division,Karad H.O,415110,HO,Delivery,SATARA,MAHARASHTRA,17.286501,74.181427
+Maharashtra Circle,Pune Region,Solapur Division,Solapur H.O,413001,HO,Delivery,SOLAPUR,MAHARASHTRA,17.6659167,75.8943333
+Maharashtra Circle,Regional Office Aurangabad,Chhatrapati Sambhajinagar Division,Jalna H.O,431203,HO,Delivery,JALNA,MAHARASHTRA,19.845908,75.906935
+Maharashtra Circle,Regional Office Aurangabad,Osmanabad Division,Latur H.O,413512,HO,Delivery,LATUR,MAHARASHTRA,18.400494,76.578184
+Maharashtra Circle,Regional Office Aurangabad,Osmanabad Division,Osmanabad HO,413501,HO,Delivery,OSMANABAD,MAHARASHTRA,18.183308,76.037974
+North Eastern Circle,North East - I Region,Mizoram Division,Aizawl H.O,796001,HO,Delivery,AIZAWL,MIZORAM,23.72583333,92.71902778
+Odisha Circle,Bhubaneswar HQ Region,JAJPUR DIVISION,Jajpur H.O,755001,HO,Delivery,JAJAPUR,ODISHA,20.8523333,86.3293333
+Odisha Circle,Bhubaneswar HQ Region,Mayurbhanj Division,Baripada H.O,757001,HO,Delivery,MAYURBHANJ,ODISHA,21.9380556,86.7261111
+Odisha Circle,Sambalpur Region,Sambalpur Division,Bargarh H.O,768028,HO,Delivery,BARGARH,ODISHA,21.3342500,83.6191944
+Odisha Circle,Sambalpur Region,Sundargarh Division,Jharsuguda H.O,768201,HO,Delivery,JHARSUGUDA,ODISHA,21.85647222,84.01344444
+Odisha Circle,Sambalpur Region,Rourkela Division,Rourkela H.O,769001,HO,Delivery,SUNDARGARH,ODISHA,22.2277,84.863
+Odisha Circle,Berhampur Region,Koraput Division,Koraput H.O,764020,HO,Delivery,KORAPUT,ODISHA,18.8260000,82.6950590
+Punjab Circle,DivReportingCircle,Chandigarh Division,Ropar HO,140001,HO,Delivery,RUPNAGAR,PUNJAB,30.96661,73.53025
+Punjab Circle,DivReportingCircle,Ludhiana City Division,Ludhiana HO,141001,HO,Delivery,LUDHIANA,PUNJAB,30.9026389,75.8377500
+Punjab Circle,DivReportingCircle,Patiala Division,Patiala HO,147001,HO,Delivery,PATIALA,PUNJAB,30.334492,76.385886
+Punjab Circle,DivReportingCircle,Patiala Division,Rajpura HO,140401,HO,Delivery,PATIALA,PUNJAB,30.486038,76.592572
+Punjab Circle,DivReportingCircle,Sangrur Division,Sangrur HO,148001,HO,Delivery,SANGRUR,PUNJAB,30.2455278,75.8443056
+Punjab Circle,Punjab West Region,Faridkot Division,Faridkot HO,151203,HO,Delivery,FARIDKOT,PUNJAB,30.683489000000002,74.760401000000002
+Punjab Circle,Punjab West Region,Hoshiarpur Division,Hoshiarpur HO,146001,HO,Delivery,HOSHIARPUR,PUNJAB,31.528927,75.924148
+Rajasthan Circle,Ajmer Region,Ajmer Division,Ajmer H.O,305001,HO,Delivery,AJMER,RAJASTHAN,26.4589444,74.6355278
+Rajasthan Circle,Ajmer Region,Beawar Division,Beawar (Raj) H.O,305901,HO,Delivery,AJMER,RAJASTHAN,26.1080556,74.3247222
+Rajasthan Circle,Ajmer Region,Jhalawar Division,Jhalawar H.O,326001,HO,Delivery,JHALAWAR,RAJASTHAN,24.5800000,76.1700000
+Rajasthan Circle,Ajmer Region,Kota Division,New Grain Mandi Kota H.O,324007,HO,Delivery,KOTA,RAJASTHAN,25.1600000,75.8500000
+Rajasthan Circle,Ajmer Region,Tonk Division,Bundi H.O,323001,HO,Delivery,BUNDI,RAJASTHAN,25.4305140,75.6499030
+Rajasthan Circle,Jodhpur Region,Churu Division,Churu H.O,331001,HO,Delivery,CHURU,RAJASTHAN,28.2902778,74.9613889
+Rajasthan Circle,Jodhpur Region,Jodhpur Division,Jodhpur HO,342001,HO,Delivery,JODHPUR,RAJASTHAN,26.2730480,73.0233764
+Rajasthan Circle,Jodhpur Region,Pali Division,Pali Marwar H.O,306401,HO,Delivery,PALI,RAJASTHAN,25.7697222,73.3233333
+Rajasthan Circle,Jodhpur Region,Sriganganagar Division,Hanumangarh Jn. H.O,335512,HO,Delivery,HANUMANGARH,RAJASTHAN,29.932378,73.865606
+Tamilnadu Circle,Chennai City Region,Tambaram Division,Ambattur HO,600053,HO,Delivery,CHENNAI,TAMIL NADU,13.1133889,80.1499167
+Tamilnadu Circle,Western Region Coimbatore,Salem East Division,Atur H.O,636102,HO,Delivery,SALEM,TAMIL NADU,11.5980000,78.5950000
+Tamilnadu Circle,Western Region Coimbatore,Salem West Division,Suramangalam H.O,636005,HO,Delivery,SALEM,TAMIL NADU,11.6701400,78.1145950
+Tamilnadu Circle,Western Region Coimbatore,Tirupur Division,Tirupur HO,641601,HO,Delivery,TIRUPPUR,TAMIL NADU,11.1078889,77.3409444
+Tamilnadu Circle,Southern Region Madurai,Dindigul Division,Dindigul HO,624001,HO,Delivery,DINDIGUL,TAMIL NADU,10.363107,77.981923
+Tamilnadu Circle,Southern Region Madurai,Karaikudi Division,Karaikudi H.O,630001,HO,Delivery,SIVAGANGA,TAMIL NADU,10.0768595,78.7794284
+Tamilnadu Circle,Southern Region Madurai,Kovilpatti Division,Sankarankovil H.O,627756,HO,Delivery,TENKASI,TAMIL NADU,9.1634000,77.5064000
+Tamilnadu Circle,Southern Region Madurai,Tirunelveli Division,Palayankottai HO,627002,HO,Delivery,TIRUNELVELI,TAMIL NADU,8.7216704,77.7378755
+Tamilnadu Circle,Southern Region Madurai,Tuticorin Division,Srivaikuntam H.O,628601,HO,Delivery,TUTICORIN,TAMIL NADU,8.6311944,77.9111389
+Tamilnadu Circle,Central Region Trichirapalli,Cuddalore Division,Chidambaram H.O,608001,HO,Delivery,CUDDALORE,TAMIL NADU,11.4000000,79.7000000
+Tamilnadu Circle,Central Region Trichirapalli,Karur Division,Kulittalai H.O,639104,HO,Delivery,KARUR,TAMIL NADU,10.9401944,78.4205278
+Tamilnadu Circle,Central Region Trichirapalli,Pattukottai Division,Pattukottai H.O,614601,HO,Delivery,THANJAVUR,TAMIL NADU,10.4265556,79.3186944
+Tamilnadu Circle,Central Region Trichirapalli,Srirangam Division,Turaiyur H.O,621010,HO,Delivery,TIRUCHIRAPPALLI,TAMIL NADU,11.1500000,78.6000000
+Tamilnadu Circle,Central Region Trichirapalli,Thanjavur Division,Thanjavur H.O,613001,HO,Delivery,THANJAVUR,TAMIL NADU,10.7789167,79.1400556
+Tamilnadu Circle,Central Region Trichirapalli,Tiruchirapalli Division,Lalgudi HO,621601,HO,Delivery,TIRUCHIRAPPALLI,TAMIL NADU,10.8753333,78.8152222
+Uttar Pradesh Circle,Agra Region,Agra Division,Agra HO,282001,HO,Delivery,AGRA,UTTAR PRADESH,27.1508611,78.0040556
+Uttar Pradesh Circle,Agra Region,Bulandshahar Division,Bulandshahr HO,203001,HO,Delivery,BULANDSHAHR,UTTAR PRADESH,28.4039061,77.8565917
+Uttar Pradesh Circle,Agra Region,Etawah Division,Etawah HO,206001,HO,Delivery,ETAWAH,UTTAR PRADESH,26.7843553,79.0198517
+Uttar Pradesh Circle,Prayagraj Regional Office,Prayagraj Division,PRAYAGRAJ HPO,211001,HO,Delivery,PRAYAGRAJ,UTTAR PRADESH,25.45347,81.82738
+Uttar Pradesh Circle,Prayagraj Regional Office,Prayagraj Division,Prayagraj Kty. H.O,211002,HO,Delivery,PRAYAGRAJ,UTTAR PRADESH,25.4358,81.84631
+Uttar Pradesh Circle,Varanasi Region,Jaunpur Division,Jaunpur HO,222001,HO,Delivery,JAUNPUR,UTTAR PRADESH,25.7490000,82.6987000
+Uttar Pradesh Circle,Bareilly Region,Bareilly Division,Pilibhit HO,262001,HO,Delivery,PILIBHIT,UTTAR PRADESH,28.6215833,79.8163889
+Uttar Pradesh Circle,Bareilly Region,Moradabad Division,Rampur HO,244901,HO,Delivery,RAMPUR,UTTAR PRADESH,28.8050833,79.0160833
+Uttar Pradesh Circle,Varanasi Region,Ballia Division,RASRA HO,221712,HO,Delivery,BALLIA,UTTAR PRADESH,25.8500000,83.8600000
+Uttar Pradesh Circle,Gorakhpur Region,Deoria Division,Deoria HO,274001,HO,Delivery,DEORIA,UTTAR PRADESH,26.4827222,83.7797500
+Uttar Pradesh Circle,Gorakhpur Region,Deoria Division,Padrauna HO,274304,HO,Delivery,KUSHI NAGAR,UTTAR PRADESH,26.7532778,83.9775000
+Uttar Pradesh Circle,Kanpur Region,Kanpur HO Division,Kanpur HO,208001,HO,Delivery,FATEHPUR,UTTAR PRADESH,26.47355556,80.35069444
+Uttar Pradesh Circle,Lucknow  HQ Region,Lucknow GPO Division,Lucknow GPO,226001,HO,Delivery,LUCKNOW,UTTAR PRADESH,26.8466940,80.9461660
+Uttar Pradesh Circle,Lucknow  HQ Region,Rae Bareilly Division,Raebarely HO,229001,HO,Delivery,RAE BARELI,UTTAR PRADESH,26.2349460,81.2410080
+Uttar Pradesh Circle,Lucknow  HQ Region,Sitapur Division,Sitapur HO,261001,HO,Delivery,SITAPUR,UTTAR PRADESH,27.5576944,80.6827500
+Uttarakhand Circle,DivReportingCircle,Almora Division,Ranikhet HO,263645,HO,Delivery,ALMORA,UTTARAKHAND,29.6327778,79.4328333
+Uttarakhand Circle,DivReportingCircle,Dehradun Division,Dehradun GPO,248001,HO,Delivery,DEHRADUN,UTTARAKHAND,30.3249444,78.0416667
+Uttarakhand Circle,DivReportingCircle,Dehradun Division,Roorkee HO,247667,HO,Delivery,HARIDWAR,UTTARAKHAND,29.8704444,77.8884722
+Uttarakhand Circle,DivReportingCircle,Tehri Division,Tehri HO,249001,HO,Delivery,TEHRI GARHWAL,UTTARAKHAND,30.3764167,78.4393056
+West Bengal Circle,Kolkata Region,South Kolkata Division,Alipore HO,700027,HO,Delivery,KOLKATA,WEST BENGAL,22.5257500,88.3377222
+West Bengal Circle,Kolkata Region,Birbhum Division,Suri HO,731101,HO,Delivery,BIRBHUM,WEST BENGAL,23.9113333,87.5271667
+West Bengal Circle,Kolkata Region,Kolkata Central Division,Park Street HO,700016,HO,Delivery,KOLKATA,WEST BENGAL,22.5520000,88.3539167
+West Bengal Circle,DivReportingCircle,A - N Islands Division,Port Blair H.O,744101,HO,Delivery,SOUTH ANDAMANS,ANDAMAN AND NICOBAR ISLANDS,11.66583333,92.74111111
+West Bengal Circle,North Bengal Region,Darjeeling Division,Darjeeling HO,734101,HO,Delivery,DARJEELING,WEST BENGAL,27.0409444,88.2648056
+West Bengal Circle,North Bengal Region,Darjeeling Division,Siliguri HO,734001,HO,Delivery,DARJEELING,WEST BENGAL,26.7097222,88.4287778
+West Bengal Circle,North Bengal Region,Malda Division,Malda HO,732101,HO,Delivery,MALDAH,WEST BENGAL,24.9996111,88.1455000
+West Bengal Circle,DivReportingCircle,Sikkim Division,Gangtok HO,737101,HO,Delivery,EAST DISTRICT,SIKKIM,27.3322500,88.6140278
+West Bengal Circle,South Bengal Region,Asansol Division,Asansol HO,713301,HO,Delivery,PASCHIM BARDHAMAN,WEST BENGAL,22.6866667,86.9735278
+West Bengal Circle,South Bengal Region,Hooghly North Division,Chinsurah HO,712101,HO,Delivery,HOOGHLY,WEST BENGAL,22.8882500,88.4022500
+West Bengal Circle,South Bengal Region,Howrah Division,Salkia HO,711106,HO,Delivery,HOWRAH,WEST BENGAL,22.6013889,88.3416667
+West Bengal Circle,South Bengal Region,Midnapore Division,Jhargram HO,721507,HO,Delivery,Jhargram,WEST BENGAL,22.4537778,86.9985000

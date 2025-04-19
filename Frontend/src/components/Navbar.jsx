@@ -11,8 +11,7 @@ const Navbar = () => {
       
       <div className="flex space-x-6">
         <Link to="/" className="hover:text-orange-400">Upload</Link>
-        <Link to="/route" className="hover:text-orange-400">Route</Link>
-        <Link to="/delivery" className="hover:text-orange-400">Delivery</Link>
+        <Link to="/sort" className="hover:text-orange-400">Sort</Link>
       </div>
       
       {/* Empty div to maintain flex layout */}

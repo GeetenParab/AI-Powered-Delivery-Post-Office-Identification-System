@@ -1,0 +1,60 @@
+CircleName,RegionName,DivisionName,OfficeName,Pincode,OfficeType,Delivery,District,StateName,Latitude,Longitude
+Maharashtra Circle,Goa-Panaji Region,Kolhapur Division,Kolhapur City H.O,416012,HO,Delivery,KOLHAPUR,MAHARASHTRA,16.6914198,74.2187626
+Maharashtra Circle,Goa-Panaji Region,Kolhapur Division,Kolhapur H.O,416003,HO,Delivery,KOLHAPUR,MAHARASHTRA,16.7196943,74.23757
+Maharashtra Circle,Goa-Panaji Region,RATNAGIRI DIVISION,Chiplun H.O,415605,HO,Delivery,RATNAGIRI,MAHARASHTRA,17.5317702,73.512773
+Maharashtra Circle,Mumbai Region,Mumbai City West Division,Mumbai Central H.O,400008,HO,Delivery,MUMBAI,MAHARASHTRA,18.96856312,72.82209855
+Maharashtra Circle,Navi Mumbai Region,Thane Division,Thane H.O,400601,HO,Delivery,THANE,MAHARASHTRA,19.1993056,72.9793333
+Maharashtra Circle,Nagpur Region,Akola Division,Akola H.O,444001,HO,Delivery,AKOLA,MAHARASHTRA,20.7100000,77.0000000
+Maharashtra Circle,Nagpur Region,Amaravati Division,Amravati H.O,444601,HO,Delivery,AMRAVATI,MAHARASHTRA,20.9298611,77.7523056
+Maharashtra Circle,Nagpur Region,Amaravati Division,Paratwada H.O,444805,HO,Delivery,AMRAVATI,MAHARASHTRA,21.303488932135824,77.51486860225016
+Maharashtra Circle,Nagpur Region,Nagpur City Division,Nagpur City H.O,440002,HO,Delivery,NAGPUR,MAHARASHTRA,21.15271940,79.10926740
+Maharashtra Circle,Nagpur Region,Nagpur Moffusil Division,Bhandara H.O,441904,HO,Delivery,BHANDARA,MAHARASHTRA,21.16341,79.65594
+Maharashtra Circle,Nagpur Region,Nagpur Moffusil Division,Gondia H.O,441601,HO,Delivery,GONDIA,MAHARASHTRA,21.499805,80.254435
+Maharashtra Circle,Nagpur Region,Nagpur Moffusil Division,Kamthi H.O,441001,HO,Delivery,NAGPUR,MAHARASHTRA,21.2275310,79.1900830
+Maharashtra Circle,Regional Office Aurangabad,Bhusaval Division,Bhusawal H.O,425201,HO,Delivery,JALGAON,MAHARASHTRA,21.0450746,75.7864589
+Maharashtra Circle,Navi Mumbai Region,Malegaon Division,Malegaon H.O,423203,HO,Delivery,NASHIK,MAHARASHTRA,21.0073120,75.5625490
+Maharashtra Circle,Goa-Panaji Region,RATNAGIRI DIVISION,Ratnagiri H.O,415612,HO,Delivery,RATNAGIRI,MAHARASHTRA,16.995752,73.293539
+Maharashtra Circle,Goa-Panaji Region,SINDHUDURG DIVISION,Sawantwadi H.O,416510,HO,Delivery,SINDHUDURG,MAHARASHTRA,15.9108056,73.8230833
+Maharashtra Circle,Mumbai Region,Mumbai City South Division,Kalbadevi H.O,400002,HO,Delivery,MUMBAI,MAHARASHTRA,18.945166,72.828526
+Maharashtra Circle,Navi Mumbai Region,Raigad Division,Alibag HO,402201,HO,Delivery,RAIGAD,MAHARASHTRA,18.6418056,72.8723611
+Maharashtra Circle,Navi Mumbai Region,Palghar Division,Palghar H.O,401404,HO,Delivery,PALGHAR,MAHARASHTRA,19.6982778,72.7689167
+Maharashtra Circle,Nagpur Region,Buldana Division,Buldana H.O,443001,HO,Delivery,BULDHANA,MAHARASHTRA,20.535899986707577,76.1844975313938
+Maharashtra Circle,Nagpur Region,Nagpur City Division,Nagpur GPO,440001,HO,Delivery,NAGPUR,MAHARASHTRA,21.1524,79.0693
+Maharashtra Circle,Pune Region,Ahmednagar Division,Ahmednagar H.O,414001,HO,Delivery,AHMEDNAGAR,MAHARASHTRA,19.0953184,74.7473232
+Maharashtra Circle,Pune Region,Pandharpur Division,Pandharpur H.O,413304,HO,Delivery,SOLAPUR,MAHARASHTRA,17.677252,75.327658
+Maharashtra Circle,Pune Region,Pune City West Division,Pune City H.O,411002,HO,Delivery,PUNE,MAHARASHTRA,18.5153889,73.8567778
+Maharashtra Circle,Navi Mumbai Region,Nasik Division,Nashik H.O,422001,HO,Delivery,NASHIK,MAHARASHTRA,20.0082,73.80645
+Maharashtra Circle,Goa-Panaji Region,SANGLI DIVISION,Miraj H.O,416410,HO,Delivery,SANGLI,MAHARASHTRA,16.8193884,74.6411806
+Maharashtra Circle,Goa-Panaji Region,SANGLI DIVISION,Sangli H.O,416416,HO,Delivery,SANGLI,MAHARASHTRA,16.860161,74.5681141
+Maharashtra Circle,Goa-Panaji Region,SINDHUDURG DIVISION,Malvan H.O,416606,HO,Delivery,SINDHUDURG,MAHARASHTRA,16.0578056,73.4672500
+Maharashtra Circle,Mumbai Region,Mumbai City East Division,Dadar H.O,400014,HO,Delivery,MUMBAI,MAHARASHTRA,19.0160278,72.8458611
+Maharashtra Circle,Mumbai Region,Mumbai City North Division,Andheri H.O,400053,HO,Non Delivery,MUMBAI SUBURBAN,MAHARASHTRA,19.1238889,72.8307778
+Maharashtra Circle,Mumbai Region,Mumbai City West Division,Mahim H.O,400016,HO,Delivery,MUMBAI,MAHARASHTRA,19.0320833,72.8407222
+Maharashtra Circle,Navi Mumbai Region,Navi Mumbai Division,Panvel H.O,410206,HO,Delivery,RAIGAD,MAHARASHTRA,18.9963333,73.1231389
+Maharashtra Circle,Navi Mumbai Region,Thane Division,Kalyan City H.O,421301,HO,Non Delivery,THANE,MAHARASHTRA,19.2448056,73.1255556
+Maharashtra Circle,Pune Region,Pune City East Division,Pune H.O,411001,HO,Delivery,PUNE,MAHARASHTRA,18.52322222,73.87586111
+Maharashtra Circle,Pune Region,Pune Moffusil Division,Shivajinagar H.O,411005,HO,Non Delivery,PUNE,MAHARASHTRA,18.5275278,73.8505000
+Maharashtra Circle,Pune Region,Baramati Division,Baramati H.O,413102,HO,Delivery,PUNE,MAHARASHTRA,18.147522,74.578278
+Maharashtra Circle,Pune Region,Satara Division,Satara H.O,415001,HO,Delivery,SATARA,MAHARASHTRA,17.6881944,74.007132
+Maharashtra Circle,Regional Office Aurangabad,Dhule Division,Dhule H.O,424001,HO,Delivery,DHULE,MAHARASHTRA,20.902028,74.774982
+Maharashtra Circle,Regional Office Aurangabad,Jalgaon Division,Jalgaon H.O,425001,HO,Delivery,JALGAON,MAHARASHTRA,21.0041453,75.5688059
+Maharashtra Circle,Regional Office Aurangabad,Nanded Division,Nanded H.O,431601,HO,Delivery,NANDED,MAHARASHTRA,19.156194,77.310966
+Maharashtra Circle,Navi Mumbai Region,Nasik Division,Nashik Road H.O,422101,HO,Delivery,NASHIK,MAHARASHTRA,19.9686640,73.8316080
+Maharashtra Circle,Goa-Panaji Region,Kolhapur Division,Ichalkaranji H.O,416115,HO,Delivery,KOLHAPUR,MAHARASHTRA,16.6841012,74.4688653
+Maharashtra Circle,Mumbai Region,Mumbai City North East Division,Chembur HO,400071,HO,Delivery,MUMBAI SUBURBAN,MAHARASHTRA,19.0566895,72.898216
+Maharashtra Circle,Mumbai Region,Mumbai GPO Division,Mumbai GPO,400001,HO,Delivery,MUMBAI,MAHARASHTRA,18.9391667,72.8375556
+Maharashtra Circle,Nagpur Region,Buldana Division,Khamgaon H.O,444303,HO,Delivery,BULDHANA,MAHARASHTRA,20.7077778,76.5688889
+Maharashtra Circle,Nagpur Region,Chandrapur Division,Chandrapur H.O,442401,HO,Delivery,CHANDRAPUR,MAHARASHTRA,19.962265,79.2963
+Maharashtra Circle,Nagpur Region,Wardha Division,Wardha H.O,442001,HO,Delivery,WARDHA,MAHARASHTRA,21.1483333,79.0715556
+Maharashtra Circle,Pune Region,Shrirampur Division,Shrirampur H.O,413709,HO,Delivery,AHMEDNAGAR,MAHARASHTRA,19.618564497077056,74.66251531217345
+Maharashtra Circle,Regional Office Aurangabad,Chhatrapati Sambhajinagar Division,Chhatrapati Sambhajinagar (MH) H.O,431001,HO,Delivery,AURANGABAD,MAHARASHTRA,19.888632,75.325199
+Maharashtra Circle,Regional Office Aurangabad,Beed Division,Beed H.O,431122,HO,Delivery,BEED,MAHARASHTRA,18.989635,75.75621
+Maharashtra Circle,Regional Office Aurangabad,Jalgaon Division,Chalisgaon H.O,424101,HO,Delivery,JALGAON,MAHARASHTRA,20.460336,75.011102
+Maharashtra Circle,Regional Office Aurangabad,Pharbhani Division,Parbhani H.O,431401,HO,Delivery,PARBHANI,MAHARASHTRA,19.272097160000001,76.772164369999999
+Maharashtra Circle,Mumbai Region,Mumbai City North West Division,Borivali HO,400091,HO,Delivery,MUMBAI SUBURBAN,MAHARASHTRA,19.232127,72.840368
+Maharashtra Circle,Nagpur Region,Yeotmal Division,Yavatmal H.O,445001,HO,Delivery,YAVATMAL,MAHARASHTRA,20.38502778,78.119
+Maharashtra Circle,Pune Region,Karad Division,Karad H.O,415110,HO,Delivery,SATARA,MAHARASHTRA,17.286501,74.181427
+Maharashtra Circle,Pune Region,Solapur Division,Solapur H.O,413001,HO,Delivery,SOLAPUR,MAHARASHTRA,17.6659167,75.8943333
+Maharashtra Circle,Regional Office Aurangabad,Chhatrapati Sambhajinagar Division,Jalna H.O,431203,HO,Delivery,JALNA,MAHARASHTRA,19.845908,75.906935
+Maharashtra Circle,Regional Office Aurangabad,Osmanabad Division,Latur H.O,413512,HO,Delivery,LATUR,MAHARASHTRA,18.400494,76.578184
+Maharashtra Circle,Regional Office Aurangabad,Osmanabad Division,Osmanabad HO,413501,HO,Delivery,OSMANABAD,MAHARASHTRA,18.183308,76.037974

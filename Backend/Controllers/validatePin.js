@@ -21,17 +21,19 @@ export const validatePin = async (req, res) => {
     const pythonApi = "http://localhost:8000/search";
     const { data } = await axios.post(pythonApi, { address });
     // console.log(data)
-    // console.log(data.matches[0].Pincode)
+    // console.log(data.matches[0])
     const correctedAddress = {
       street,
       city,
       state,
       pinCode: data.matches[0].Pincode,
     };
+    addressDoc.destinationpostid = data.matches[0];
 
     addressDoc.correctedAddress = correctedAddress;
     addressDoc.status = "verified";
       // console.log(correctedAddress)
+      // console.log(addressDoc)
     await addressDoc.save();
  
     // res.json({ matches: data.matches });

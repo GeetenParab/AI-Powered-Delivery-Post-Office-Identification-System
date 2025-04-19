@@ -23,27 +23,36 @@ export const extractWithGemini = async (photoPath) => {
                 },
               },
               {
-                    text: `You are given text extracted from an envelope image. Your task is to identify and extract **only the recipient's address** from the content.
-
-                - If there are **two addresses** (sender and receiver), identify and extract the one written in the **typical recipient location** (usually center-right, below stamps).
-                - If there is **only one address**, assume it's the **recipient’s address**.
-                - Ignore the sender’s address completely.
-
-                Return the output in the following JSON structure:
-
-                originalAddress: {
-                fullText: String, // the complete recipient address as written
-                structured: {
-                    street: String,
-                    city: String,
-                    state: String,
-                    pinCode: String
+                text: `
+                Extract only the recipient's address from this envelope image. 
+                If there are two addresses, choose the one in the recipient's typical location (center-right or below stamps).
+                If there's only one address, assume it's the recipient's.
+                
+                Your task:
+                1. Extract the full address.
+                2. Split into street, city, state, and pincode.
+                3. In the city field, format it as "Town City". 
+                   - Town = locality or neighborhood (e.g., Bandra West)
+                   - City = main city (e.g., Mumbai)
+                   - Final result: "Bandra-West Mumbai"
+                
+                Output must be in this strict JSON format:
+                {
+                  "originalAddress": {
+                    "fullText": "full address as seen",
+                    "structured": {
+                      "street": "....",
+                      "city": "Town City format",
+                      "state": "Full State Name",
+                      "pinCode": "......"
+                    }
+                  }
                 }
-                }
-
-                If any part (like state or pinCode) is missing, leave it as an empty string.
-                Do not add any explanation or extra text.
-                `,
+                
+                Only return JSON. Do not explain anything.
+                If any part is missing, leave it as an empty string.
+                `
+                ,
               },
             ],
           },
