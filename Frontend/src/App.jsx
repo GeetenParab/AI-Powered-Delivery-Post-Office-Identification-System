@@ -1,16 +1,24 @@
-import { useState } from 'react'
-
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from './components/Navbar.jsx';
+import Upload from './components/Upload.jsx';
+import Rout from './components/Rout.jsx';
+import Delivery from './components/Delivery.jsx';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <h1 className="text-3xl text-red-500 font-bold underline">
-      Hello world!
-    </h1>
-    </>
-  )
+    <Router>
+      <div className="flex flex-col min-h-screen">
+        <Navbar />
+        <div className="flex-grow">
+          <Routes>
+            <Route path="/" element={<Upload />} />
+            <Route path="/route" element={<Rout />} />
+            <Route path="/delivery" element={<Delivery />} />
+          </Routes>
+        </div>
+      </div>
+    </Router>
+  );
 }
 
-export default App
+export default App;

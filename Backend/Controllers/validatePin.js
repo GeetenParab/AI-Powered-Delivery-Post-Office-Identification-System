@@ -34,7 +34,8 @@ export const validatePin = async (req, res) => {
       // console.log(correctedAddress)
     await addressDoc.save();
  
-    res.json({ matches: data.matches });
+    // res.json({ matches: data.matches });
+    res.json(correctedAddress);
 
   } catch (error) {
     console.error("Error in validatePin controller", error.message);

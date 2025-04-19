@@ -30,8 +30,8 @@ async def search_address(request: Request):
     # Generate embedding for input query
     vector = model.encode([query])
 
-    # Search top 5 closest matches
-    D, I = index.search(np.array(vector), k=5)
+    # Search top 3 closest matches
+    D, I = index.search(np.array(vector), k=3)
 
     results = []
     for i in I[0]:

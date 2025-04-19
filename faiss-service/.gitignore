@@ -7,7 +7,7 @@ __pycache__/
 
 # Ignore large data files
 # pincode.csv
-# pin_embeddings.npy
+pin_embeddings.npy
 # pin_metadata.json
 
 # Ignore model files if you download any
